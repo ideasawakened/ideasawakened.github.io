@@ -9,6 +9,9 @@ permalink: post/dll-injection-with-delphi
 published: true
 image: /assets/blog/Microsoft-Windows/DLL-Injection/DLL-Injection-Example.png
 hero_image_post_hide: true
+hero_image_homepage_show: true
+hero_image_homepage_width: 400
+hero_image_homepage_height: 210
 description: A walk through of DLL Injection using the DelphiDetours package for Delphi and some custom injection code for injecting DLLs on Microsoft Windows.
 ---
 I had recently spent some time playing around with the simple to use **DelphiDetours** package from **Mahdi Safsafi**

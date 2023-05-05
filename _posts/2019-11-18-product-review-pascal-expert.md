@@ -9,6 +9,7 @@ permalink: post/product-review-pascal-expert
 published: true
 image: /assets/blog/Peganza/Pascal-Expert/PEX_Menu.jpg
 hero_image_post_hide: true
+hero_image_homepage_show: true
 description: Product review of Pascal Expert, a Delphi IDE plug-in featuring static source code analysis.
 ---
 

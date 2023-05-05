@@ -43,6 +43,16 @@ layout: page
     <div class="card post-preview">
       <a href="{{ post.url | relative_url }}">
         <div class="card-body">
+
+          {% if post.image and post.hero_image_homepage_show %}
+            {% capture src %}src="{{ post.image.path | default: post.image }}"{% endcapture %}
+            {% capture imgwidth %}width:{{ post.hero_image_homepage_width | default: 400 }}px;{% endcapture %}
+            {% capture imgheight %}height:{{ post.hero_image_homepage_height | default: 210 }}px;{% endcapture %}
+            <div class="mt-3 mb-3">
+              <img {{ src }} class="preview-img" alt="Preview Image" style="{{ imgwidth }} {{ imgheight }}">
+            </div>
+          {% endif %}
+
           <h1 class="card-title">
             {{ post.title }}
           </h1>
