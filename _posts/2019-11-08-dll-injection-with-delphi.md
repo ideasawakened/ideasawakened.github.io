@@ -4,7 +4,6 @@ title: "DLL Injection with Delphi"
 date: 2019-11-08 12:00:00 +0000
 categories: [delphi programming, example code]
 tags: [dll-injection, dxlib, Mahdi Safsafi, Sertac Akyuz, Mathias Rauen]
-permalink: post/dll-injection-with-delphi
 published: true
 ---
 I had recently spent some time playing around with the simple to use **DelphiDetours** package from **Mahdi Safsafi**
