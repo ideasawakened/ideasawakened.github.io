@@ -8,6 +8,7 @@ tags: [Pascal Expert, Peganza, static code analysis, Roman Yankovsky]
 permalink: post/product-review-pascal-expert
 published: true
 image: /assets/blog/Peganza/Pascal-Expert/PEX_Menu.jpg
+hide_hero_image: true
 description: Product review of Pascal Expert, a Delphi IDE plug-in featuring static source code analysis.
 ---
 
@@ -21,7 +22,7 @@ Pascal Expert is an IDE plug-in for Delphi which performs **static code analysis
 
 Analyzing source within the IDE is triggered via a click of a Tools menu item, a toolbar button, or via a hotkey, to analyze the current project, the current module, or to perform a Quick Analysis of the current module. Below is the Tools menu item, and corresponding toolbar menu icons:
 
-![](/assets/blog/Peganza/Pascal-Expert/PEX_Menu.jpg)
+![Pascal Analyzer - Menu](/assets/blog/Peganza/Pascal-Expert/PEX_Menu.jpg)
 
 The source is analyzed and up to four types of warnings are presented in the output window, similar to the warnings presented during compilation.
 

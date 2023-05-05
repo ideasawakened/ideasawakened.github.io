@@ -8,6 +8,7 @@ tags: [dll-injection, dxlib, Mahdi Safsafi, Sertac Akyuz, Mathias Rauen]
 permalink: post/dll-injection-with-delphi
 published: true
 image: /assets/blog/Microsoft-Windows/DLL-Injection/DLL-Injection-Example.png
+hide_hero_image: true
 description: A walk through of DLL Injection using the DelphiDetours package for Delphi and some custom injection code for injecting DLLs on Microsoft Windows.
 ---
 I had recently spent some time playing around with the simple to use **DelphiDetours** package from **Mahdi Safsafi**
