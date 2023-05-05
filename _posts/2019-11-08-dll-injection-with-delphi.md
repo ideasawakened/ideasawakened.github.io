@@ -24,7 +24,7 @@ I also put a new repository online yesterday, initially containing Delphi projec
 
 The screen shot below demonstrates a successful detour of a simple **MessageBox** call utilizing the projects from the dxInjectionDetours repo:
 
-![Sample Windows API method intercepted](/assets/blog/Delphi/DLL%20Injection%20Example.png)
+![Sample Windows API method intercepted](/assets/blog/Microsoft-Windows/DLL-Injection/DLL-Injection-Example.png)
 
 Sample Windows API method intercepted
 
@@ -202,6 +202,6 @@ For the short-animated demo below, I used a free tool called **ScreenToGif** by 
 
 [**https://github.com/NickeManarin/ScreenToGif**](https://github.com/NickeManarin/ScreenToGif)
 
-![DLL injection demo](/assets/blog/Delphi/DLL-Injection-Example-Screen-Capture.gif)
+![DLL injection demo](/assets/blog/Microsoft-Windows/DLL-Injection/DLL-Injection-Example-Screen-Capture.gif)
 
 DLL injection demo
