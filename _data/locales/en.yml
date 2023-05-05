@@ -77,8 +77,8 @@ post:
 # See: <http://strftime.net/>, <https://day.js.org/docs/en/display/format>
 df:
   post:
-    strftime: '%b %e, %Y'
-    dayjs: 'll'
+    strftime: '%b %d, %Y'
+    dayjs: 'MMM DD, YYYY'
   archives:
     strftime: '%b'
     dayjs: 'MMM'

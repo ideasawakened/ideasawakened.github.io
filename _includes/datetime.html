@@ -5,7 +5,7 @@
 
 {% assign wrap_elem = include.wrap | default: 'em' %}
 {% assign df_strftime = site.data.locales[include.lang].df.post.strftime | default: '%d/%m/%Y' %}
-{% assign df_dayjs = site.data.locales[include.lang].df.post.dayjs | default: 'DD/MM/YYYY' %}
+{% assign df_dayjs = site.data.locales[include.lang].df.post.dayjs | default: 'MMM DD YYYY' %}  <!-- used on home page -->
 
 <{{ wrap_elem }}
   class="{% if include.class %}{{ include.class }}{% endif %}"
