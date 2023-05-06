@@ -7,7 +7,7 @@ categories: [delphi programming, product review]
 tags: [Delphi, Pascal Expert, Peganza, Static Code Analysis, Roman Yankovsky]
 permalink: post/product-review-pascal-expert
 published: true
-image: /assets/blog/Peganza/Pascal-Expert/PEX_Menu.jpg
+image: /assets/blog/Peganza/Pascal-Expert/Menu_Options.png
 description: Product review of Pascal Expert, a Delphi IDE plug-in featuring static source code analysis.
 ---
 
