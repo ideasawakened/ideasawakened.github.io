@@ -11,13 +11,22 @@ layout: page
     {{ page.title }}
     <span class="lead text-muted pl-2">{{ page.posts | size }}</span>
   </h1>
-  <ul class="post-content pl-0">
-    {% for post in page.posts %}
+  {% for post in page.posts %}
+    <ul class="post-content pl-0">
       <li class="d-flex justify-content-between pl-md-3 pr-md-3">
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <span class="dash flex-grow-1"></span>
+        <span class="dash flex-grow-1"></span> 
         {% include datetime.html date=post.date wrap='span' class='text-muted small' lang=lang %}
       </li>
-    {% endfor %}
-  </ul>
+    </ul>
+    {% if post.image and site.hero_image.show_on_tags %}
+      {% capture src %}src="{{ post.image.path | default: post.image }}"{% endcapture %}
+      {% capture imgwidth %}width:{{ site.hero_image.width | default: 400 }}px;{% endcapture %}
+      {% capture imgheight %}height:{{ site.hero_image.height | default: 210 }}px;{% endcapture %}
+      <div class="mt-3 mb-3">
+        <img {{ src }} class="preview-img" alt="Preview Image" style="{{ imgwidth }} {{ imgheight }}">
+      </div>
+    {% endif %}
+  {% endfor %}
+
 </div>

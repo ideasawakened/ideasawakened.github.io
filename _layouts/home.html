@@ -3,6 +3,8 @@ layout: page
 # The Home page layout
 ---
 
+{% include lang.html %}
+
 {% assign pinned = site.posts | where: 'pin', 'true' %}
 {% assign default = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
 
@@ -44,10 +46,10 @@ layout: page
       <a href="{{ post.url | relative_url }}">
         <div class="card-body">
 
-          {% if post.image and post.hero_image_homepage_show %}
+          {% if post.image and site.hero_image.show_on_homepage %}
             {% capture src %}src="{{ post.image.path | default: post.image }}"{% endcapture %}
-            {% capture imgwidth %}width:{{ post.hero_image_homepage_width | default: 400 }}px;{% endcapture %}
-            {% capture imgheight %}height:{{ post.hero_image_homepage_height | default: 210 }}px;{% endcapture %}
+            {% capture imgwidth %}width:{{ site.hero_image.width | default: 400 }}px;{% endcapture %}
+            {% capture imgheight %}height:{{ site.hero_image.height | default: 210 }}px;{% endcapture %}
             <div class="mt-3 mb-3">
               <img {{ src }} class="preview-img" alt="Preview Image" style="{{ imgwidth }} {{ imgheight }}">
             </div>
@@ -68,7 +70,7 @@ layout: page
             <div class="mr-auto">
               <!-- posted date -->
               <i class="far fa-calendar fa-fw"></i>
-              {% include datetime.html date=post.date %}
+              {% include datetime.html date=post.date lang=lang %}
 
               <!-- categories -->
               {% if post.categories.size > 0 %}
@@ -85,7 +87,7 @@ layout: page
             {% if post.pin %}
               <div class="pin">
                 <i class="fas fa-thumbtack fa-fw"></i>
-                <span>{{ site.data.locales[site.lang].post.pin_prompt }}</span>
+                <span>{{ site.data.locales[lang].post.pin_prompt }}</span>
               </div>
             {% endif %}
           </div>

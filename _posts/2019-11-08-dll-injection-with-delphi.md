@@ -4,14 +4,10 @@ title: "DLL Injection with Delphi"
 date: 2019-11-08 12:00:00 +0000
 last_modified_at: 2019-11-08 12:00:00 +0000
 categories: [delphi programming, example code]
-tags: [dll-injection, dxlib, Mahdi Safsafi, Sertac Akyuz, Mathias Rauen]
+tags: [Delphi, DLL Injection, dxLib, Mahdi Safsafi, Sertac Akyuz, Mathias Rauen]
 permalink: post/dll-injection-with-delphi
 published: true
 image: /assets/blog/Microsoft-Windows/DLL-Injection/DLL-Injection-Example.png
-hero_image_post_hide: true
-hero_image_homepage_show: true
-hero_image_homepage_width: 400
-hero_image_homepage_height: 210
 description: A walk through of DLL Injection using the DelphiDetours package for Delphi and some custom injection code for injecting DLLs on Microsoft Windows.
 ---
 I had recently spent some time playing around with the simple to use **DelphiDetours** package from **Mahdi Safsafi**
