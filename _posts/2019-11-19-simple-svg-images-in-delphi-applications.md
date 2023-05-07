@@ -3,8 +3,8 @@ layout: post
 title: "Simple SVG images in Delphi applications"
 date: 2019-11-19 12:00:00 +0000
 last_modified_at: 2020-08-25 12:00:00 +0000
-categories: [delphi programming]
-tags: [Delphi, SVG, components]
+categories: [Delphi Programming, Components]
+tags: [SVG, Open Source, Commercial Components]
 permalink: post/simple-svg-images-in-delphi-applications
 published: true
 image: /assets/blog/SVG/TPath_Delphi.png

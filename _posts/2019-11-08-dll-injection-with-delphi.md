@@ -3,8 +3,8 @@ layout: post
 title: "DLL Injection with Delphi"
 date: 2019-11-08 12:00:00 +0000
 last_modified_at: 2019-11-08 12:00:00 +0000
-categories: [delphi programming, example code]
-tags: [Delphi, DLL Injection, dxLib, Mahdi Safsafi, Sertac Akyuz, Mathias Rauen]
+categories: [Delphi Programming, Example Code]
+tags: [Microsoft Windows, DLL Injection, dxLib, Mahdi Safsafi, Sertac Akyuz, Mathias Rauen, Open Source]
 permalink: post/dll-injection-with-delphi
 published: true
 image: /assets/blog/Microsoft-Windows/DLL-Injection/Hook_MessageBox_API.png
