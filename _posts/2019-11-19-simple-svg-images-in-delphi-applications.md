@@ -7,7 +7,7 @@ categories: [delphi programming]
 tags: [Delphi, SVG, components]
 permalink: post/simple-svg-images-in-delphi-applications
 published: true
-image: /assets/blog/SVG/Use-SVG-With-Delphi.png
+image: /assets/blog/SVG/TPath_Delphi.png
 description: Use Scalable Vector Graphics in your Delphi applications.
 ---
 **Scalable Vector Graphics** (SVG) are becoming more popular as an alternative to providing custom sized icons for the various target devices in use. In the old days it certainly felt much easier. Of course, it depends on your definition _old days_ as it could mean 80 column terminals, 640x480, 800x600, 1024x768 resolutions or a myriad of other choices. Today we have a vast array of devices that need to be considered for application development. They can range from small handhelds with 360x640 resolution to 8k monitors at 7680x4320 - along with aspect ratios varying from 16:9, 16:10, 3:2... In short, when you ask "what is the most common screen resolution to target", be prepared for at least three different answers. This blog post is not going to wade deep into those waters. Instead we will concentrate on a simple solution for utilizing SVG graphics in your Delphi FMX-based applications.

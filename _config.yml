@@ -86,8 +86,8 @@ avatar: "/assets/img/avatar.png"
 toc: true
  
 hero_image:
-  width: 400
-  height: 300
+  width: 250
+  height: 250
   hide_on_post: true
   show_on_homepage: true
   show_on_categories: true
