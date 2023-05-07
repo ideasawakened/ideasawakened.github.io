@@ -3,8 +3,8 @@ layout: post
 title: "Subversion isn't dead - get a 1GB repo free forever"
 date: 2019-11-22 12:00:00 +0000
 last_modified_at: 2019-11-22 12:00:00 +0000
-categories: [Subversion]
-tags: [git, Subversion]
+categories: [Tooling]
+tags: [git, Subversion, Discounts]
 permalink: post/subversion-isn-t-dead-get-a-1gb-repo-free-forever
 published: true
 image: /assets/blog/SCM/git/keep-calm-and-git-sucks.png
