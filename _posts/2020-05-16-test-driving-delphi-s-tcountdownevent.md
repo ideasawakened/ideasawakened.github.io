@@ -4,7 +4,7 @@ title: "Test driving Delphi's TCountdownEvent"
 date: 2020-05-16 12:00:00 +0000
 last_modified_at: 2020-05-16 12:00:00 +0000
 categories: [Delphi Programming, Example Code]
-tags: [Mutlithreading, DelphiKB]
+tags: [multi-threading, DelphiKB]
 permalink: post/test-driving-delphi-s-tcountdownevent
 published: true
 image: /assets/blog/Mutlithreading/CountDownEvent-square.png

@@ -4,7 +4,7 @@ title: "Revisiting TThreadedQueue and TMonitor in Delphi"
 date: 2020-05-08 12:00:00 +0000
 last_modified_at: 2020-06-02 12:00:00 +0000
 categories: [Delphi Programming, Example Code]
-tags: [Multithreading, iaLib, Mason Wheeler, Chris Rolliston, DelphiKB, Marco Cantu]
+tags: [multi-threading, iaLib, Mason Wheeler, Chris Rolliston, DelphiKB, Marco Cantu]
 permalink: post/revisting-tthreadedqueue-and-tmonitor-in-delphi
 published: true
 image: /assets/blog/Mutlithreading/Delphi_StressTest_square.png

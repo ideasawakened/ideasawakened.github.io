@@ -4,7 +4,7 @@ title: "Name your threads, even the ones auto-created by Delphi"
 date: 2020-04-15 12:00:00 +0000
 last_modified_at: 2020-06-19 12:00:00 +0000
 categories: [Delphi Programming, Example Code]
-tags: [Multithreading, iaLib]
+tags: [multi-threading, iaLib]
 permalink: post/name-your-threads-even-the-ones-auto-created-by-delphi
 published: true
 image: /assets//blog/Mutlithreading/Threads_Named_square.png

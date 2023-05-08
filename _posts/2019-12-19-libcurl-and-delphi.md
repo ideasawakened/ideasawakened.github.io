@@ -7,7 +7,7 @@ categories: [Delphi Programming, Example Code]
 tags: [libcurl, openssl, Mikhail Merkuryev, Arnaud Bouchez, Christophe Espern, Jeffrey Pohlmeyer]
 permalink: post/libcurl-and-delphi
 published: true
-image: /assets/blog/curl/curl4delphi.png
+image: /assets/blog/curl/curl4delphi-small.png
 description: Using libcurl in Delphi applications with curl4delphi
 ---
 

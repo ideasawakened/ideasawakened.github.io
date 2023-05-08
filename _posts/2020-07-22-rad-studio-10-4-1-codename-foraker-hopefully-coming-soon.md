@@ -4,7 +4,7 @@ title: "RAD Studio 10.4.1 hopefully coming soon"
 date: 2020-07-22 12:00:00 +0000
 last_modified_at: 2020-07-22 12:00:00 +0000
 categories: [Delphi Programming, New Releases]
-tags: [David Millington, Stefan Glienke, Dalija Prasnikar]
+tags: [David Millington, Stefan Glienke, Dalija Prasnikar, Roadmap]
 permalink: post/rad-studio-10-4-1-codename-foraker-hopefully-coming-soon
 published: true
 image: /assets/blog/RAD-Studio-10.4-Sydney/PatchAvailable.jpg
