@@ -5,7 +5,7 @@ date: 2020-05-08 12:00:00 +0000
 last_modified_at: 2020-06-02 12:00:00 +0000
 categories: [Delphi Programming, Example Code]
 tags: [Multithreading, iaLib, Mason Wheeler, Chris Rolliston, DelphiKB, Marco Cantu]
-permalink: post/name-your-threads-even-the-ones-auto-created-by-delphi
+permalink: post/revisting-tthreadedqueue-and-tmonitor-in-delphi
 published: true
 image: /assets/blog/Mutlithreading/Delphi_StressTest_square.png
 description: Name your threads to make debugging a multi-threaded application easier.
