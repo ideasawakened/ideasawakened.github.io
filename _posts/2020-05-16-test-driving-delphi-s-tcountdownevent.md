@@ -8,10 +8,8 @@ tags: [Mutlithreading, DelphiKB]
 permalink: post/test-driving-delphi-s-tcountdownevent
 published: true
 image: /assets/blog/Mutlithreading/CountDownEvent-square.png
-description: Local inline variables with local scope and type inference in Delphi 10.3 RIO programming adds multiple benefits, some not as obvious at first glance.
+description: Introducing three GitHub projects testing out TCountdownEvent, one of the cross platform synchronization primitives supported by Delphi.
 ---
-
-
 In this post, we take a look at [**TCountdownEvent**](http://docwiki.embarcadero.com/Libraries/en/System.SyncObjs.TCountdownEvent) from the [**System.SyncObjs.pas**](http://docwiki.embarcadero.com/Libraries/en/System.SyncObjs) unit, first introduced back in Delphi XE. To be honest, I haven't used this class before. It's a shame too, as it seems like a very useful tool that can handle the common situation where one thread is waiting on a few others to finish their work. It will likely save me a lot of effort in the future! Let's hope after reading this article, you will feel the same.
 
 ![TCountdownEvent synchronization primitive](/assets/blog/Mutlithreading/CountDownEvent-Synchronization-Primitive.png)
