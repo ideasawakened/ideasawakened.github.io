@@ -7,14 +7,14 @@ categories: [Delphi Programming]
 tags: [Discounts, Community Edition, David Romoff]
 permalink: post/community-edition-upgrade-offer-up-to-55-savings
 published: true
-image: /assets/blog/CleanPNG/sale.png
+image: /assets/blog/CleanPNG/Sale.png
 description: Special pricing for RAD Studio
 ---
 If you are using the Community Edition of RAD Studio, then you may be interested in this offer with up to 55% of savings.
 
 _Note: I am not associated with Embarcadero sales, nor do I get a commission of any kind. I am simply passing on correspondence received today which I thought included an impressive discount._ It's simply a positive action for everyone in the Delphi community to help promote its growth.
 
-![Sale tag](/assets/blog/CleanPNG/sale.png)
+![Sale tag](/assets/blog/CleanPNG/Sale.png)
 
 ````
 David Romoff here, Sales Director for the US and Canadian markets.
