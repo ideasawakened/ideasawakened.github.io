@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Black Friday discounts from Delphi related third party vendors (2019)"
-date: 2019-11-22 12:00:00 +0000
-last_modified_at: 2019-11-22 12:00:00 +0000
+date: 2019-11-26 12:00:00 +0000
+last_modified_at: 2019-11-26 12:00:00 +0000
 categories: [Tooling]
 tags: [Discounts]
 permalink: post/black-friday-discounts-from-delphi-related-third-party-vendors
