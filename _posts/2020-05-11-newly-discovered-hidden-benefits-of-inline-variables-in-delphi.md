@@ -8,7 +8,7 @@ tags: [Stefan Glienke, David Millington]
 permalink: post/newly-discovered-hidden-benefits-of-inline-variables-in-delphi
 published: true
 image: /assets/blog/Delphi-Programming/Inline-Variables_Type-Inference.png
-description: Newly discovered hidden benefits of inline variables in Delphi
+description: Local inline variables with local scope and type inference in Delphi 10.3 RIO programming adds multiple benefits, some not as obvious at first glance.
 ---
 ![Delphi code demonstrating inline variables](/assets/blog/Delphi-Programming/Inline-Variables_Type-Inference.png)
 
