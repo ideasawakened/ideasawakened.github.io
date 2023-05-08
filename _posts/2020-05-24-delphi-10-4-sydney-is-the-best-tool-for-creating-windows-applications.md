@@ -3,7 +3,7 @@ layout: post
 title: "Delphi 10.4 Sydney is the best tool for creating Windows Applications"
 date: 2020-05-24 12:00:00 +0000
 last_modified_at: 2020-05-24 12:00:00 +0000
-categories: [Delphi Programming, Example Code]
+categories: [Delphi Programming, New Releases]
 tags: [Jim McKeeth]
 permalink: post/delphi-10-4-sydney-is-the-best-tool-for-creating-windows-applications
 published: true
@@ -16,7 +16,7 @@ The best tool is getting even better! The latest release of [**Delphi**](https:/
 
 Many .NET developers started with **WinForms** back in 2002 - including a whole bunch of Delphi developers that jumped ship to the greenfields of .NET from what many consider a historical pinnacle of Delphi development, **Delphi 7** (an ancient version which many developers still use today!) Some developers have stayed with WinForms over the years, but many moved to **WPF** and XAML in .NET 3.0 back in 2006. Others chose to take the five-year **Silverlight** boondoggle starting in 2007. WPF went stagnant around 2013 as the year prior Microsoft released **Metro Apps** in Windows 8. Microsoft quickly shifted the label to **WinRT** in Windows 8.1.
 
-![](/assets/blog/Microsoft-Windows/Universal-Windows-Platform/UWP.jpg)
+![Microsoft UWP](/assets/blog/Microsoft-Windows/Universal-Windows-Platform/UWP.jpg)
 
 By 2015, an updated app platform for Windows 10 was named **UWP** as the new 'final' solution but again the improvements didn't help it to gain traction. Microsoft was recognizing the obvious resistance and quickly created new technologies to bridge applications across various platforms. They developed an iOS bridge, an Android bridge, a web apps bridge, and a classic Win32 desktop apps bridge. (Did you know that there still is an [**Objective-C for Windows**](https://github.com/microsoft/WinObjC)?) The Android bridge is dead. While the Win32 bridge is still active, it has not been utilized much.
 
@@ -24,13 +24,13 @@ The new ultimate solution starting in late 2019 has been [**.NET Core 3.0**](htt
 
 The very latest technology revolution unveiled by Microsoft in the last few days is [**Project Reunion**](https://blogs.windows.com/windowsdeveloper/2020/05/19/developing-for-all-1-billion-windows-10-devices-and-beyond/). This is supposed to be the new way to drag all the Win32 applications into the future (something they have been trying very hard to do over the last 14+ years!) A quote from Microsoft: "_The idea behind Project Reunion is that it allows developers to build one Windows application and target all 1 billion Windows devices....We’re bringing together the combined power of Win32 and UWP so developers no longer have to choose because we’re unifying these existing APIs and in some way decoupling them from the OS._"
 
-![](/assets/blog/Microsoft-Windows/Microsoft-Project-Reunion.jpg)
+![Project Reunion](/assets/blog/Microsoft-Windows/Microsoft-Project-Reunion.jpg)
 
 I would pose a fairly significant question behind Microsoft's bold statement of a billion Windows devices out there: **how many applications on those billion devices are Win32 versus UWP?** I'm sure Embarcadero has a strong opinion on that specific topic! To be fair, there are a few dozen people in that commune in Belize which still use Windows Phones. And there are a few thousand people using the $3,500 HoloLens headsets. (It's $1,500 less than their first version after all so it's bound to gain traction!) And they actually sold over [**2,000 surface hub customers**](https://www.thurrott.com/mobile/microsoft-surface/86566/surprise-surface-hub-huge-success-literally) in the first nine months after its release in 2016. (Of course, I say most of this in jest... Microsoft has tried hard with UWP and much of their technology is very cool, but Win32 still dominates Windows.)
 
 Meanwhile, during the many years that Microsoft has been trying to nail down the proper alternative to Win32 (including WinForms, WPF, Silverlight, Metro, WinRT, UWP, .NET Core...), the world renown Win32 powerhouse of old, Delphi 7, has consistently improved over time into its very latest incarnation: [**Delphi 10.4 Sydney**](https://www.embarcadero.com/products/delphi). Microsoft is fully embracing Win32 again and if you have struggled for years trying to keep up with Microsoft technology shifts, perhaps now is the time to take another look at Delphi?
 
-![](/assets/blog/RAD-Studio-10.4-Sydney/Delphi-10.4-Sydney-versus-VisualStudio.png)
+![10.4 Meme](/assets/blog/RAD-Studio-10.4-Sydney/Delphi-10.4-Sydney-versus-VisualStudio.png)
 
 Sign up for the [**upcoming webinar on 10.4 Sydney**](https://register.gotowebinar.com/register/7159476968330857739) on Wednesday May 27th and see what's new! (Note that Delphi 10.3.3 is the latest version available today, check out a [**wiki page**](https://github.com/ideasawakened/DelphiKB/wiki/D27.SYDNEY.10.4.0.0) that I maintain with a growing number of links on the pending 10.4 release.)
 

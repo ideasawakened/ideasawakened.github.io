@@ -27,47 +27,47 @@ The source is analyzed and up to four types of warnings are presented in the out
 
 Currently, there are **142 different warnings** that can be revealed by Pascal Expert. Surprisingly, this is just a small subset of the Pascal Analyzer product which has many more reporting options available. Small projects are analyzed in a few seconds, and extremely large projects with many hundreds of thousands of lines of source can be fully scanned in well under a minute. (Your mileage may vary based on your hardware in use. It is highly recommended to be using NVMe drives for development machines.)
 
-![](/assets/blog/Peganza/Pascal-Expert/PEX_Warnings.png)
+![Warnings screen](/assets/blog/Peganza/Pascal-Expert/PEX_Warnings.png)
 
 Some may see some alerts as "noise" and these can be disabled in the options menu. (For example, if you rarely change your visual components from their numerically named default values such as Edit1, you will want to disable that warning.) Every alert in the output window can be selected and the F1 help key used to bring up context-sensitive help on the particular warning. You can also double-click the warning to open the source location in the editor.
 
-![](/assets/blog/Peganza/Pascal-Expert/PEX_ContextSensitiveHelp.png)
+![Context sensitive help](/assets/blog/Peganza/Pascal-Expert/PEX_ContextSensitiveHelp.png)
 
 ### **Alerts**
 
 The first type of warnings are Alerts. There are currently 87 alerts provided with Pascal Expert, with 78 of them activated by default. The few that are not active are "possibly never set" type warnings which you can enable as needed. By default, these appear in Red in the output window. (Each type of alert can have its output window messages customized for font type, style, size, color, and background color.)
 
-![](/assets/blog/Peganza/Pascal-Expert/PEX_Alerts1.png)
+![List of alerts](/assets/blog/Peganza/Pascal-Expert/PEX_Alerts1.png)
 
 ### **Reductions**
 
 The next alert is Reductions. There are 24 provided with 20 active by default. (Again a few "possibly set" style warnings are disabled to reduce noise.) The full list of Reductions is displayed below. You'll see warnings such as "**Identifiers never used**" and these are displayed for you to possibly simplify your code base. This particular warning is displayed by the compiler if warnings are enabled. However, there are more advanced warnings available such as "**Fields only used in single method**" which could alert you to change the class field to a local variable.
 
-![](/assets/blog/Peganza/Pascal-Expert/PEX_Reductions.png)
+![List of reduction alerts](/assets/blog/Peganza/Pascal-Expert/PEX_Reductions.png)
 
 ### **Optimizations**
 
 This type of alert informs you of possible code changes which could yield better performance. There are 9 types of optimization alerts provided. The full list is displayed below, starting with an often-missed simple performance improvement: "**Missing 'const' for unmodified string parameter**."
 
-![](/assets/blog/Peganza/Pascal-Expert/PEX_Optimizations.png)
+![Optimization alert list](/assets/blog/Peganza/Pascal-Expert/PEX_Optimizations.png)
 
 ### **Conventions**
 
 The last type of alert is Conventions, with 22 common alerts to help standardize your code base by enforcing strict naming conventions, such as the Delphi standard practice of "**Interface types that do not start with an 'I'**" or leaving the default names for visual components such as "Edit1"
 
-![](/assets/blog/Peganza/Pascal-Expert/PEX_Conventions.png)
+![Conventions alert list](/assets/blog/Peganza/Pascal-Expert/PEX_Conventions.png)
 
 ### **Configuration**
 
 You can configure keyboard short-cuts to execute Pascal Expert instead of using the menu or toolbar buttons. These options are available in the Options menu. **Note** that the product analyzes source code files, and not the in-memory editor buffer so you need to save changes before analyzing the source.
 
-![](/assets/blog/Peganza/Pascal-Expert/PEX_GeneralConfig.png)
+![Config screenshot](/assets/blog/Peganza/Pascal-Expert/PEX_GeneralConfig.png)
 
 You can also configure the tool to exclude source from analysis. By default, the Delphi base folder is excluded. For fun, you can remove this exclusion and see all the warnings in the Delphi source code - but it may be disappointing to see the results!
 
 You can also easily mark specific items in code to be excluded. You can either use compiler directives to exclude blocks of code, or use a simple source code comment for single line exceptions, such as _//PALOFF_
 
-![](/assets/blog/Peganza/Pascal-Expert/PEX_ReportingConfig.png)
+![Report config](/assets/blog/Peganza/Pascal-Expert/PEX_ReportingConfig.png)
 
 ### **Automation**
 

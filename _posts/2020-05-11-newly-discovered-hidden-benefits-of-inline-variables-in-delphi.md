@@ -2,7 +2,7 @@
 layout: post
 title: "Newly discovered hidden benefits of inline variables in Delphi"
 date: 2020-05-08 12:00:00 +0000
-last_modified_at: 2020-05-15 12:00:00 +0000
+last_modified_at: 2021-03-18 12:00:00 +0000
 categories: [Delphi Programming, Example Code]
 tags: [Stefan Glienke, David Millington]
 permalink: post/newly-discovered-hidden-benefits-of-inline-variables-in-delphi
@@ -115,13 +115,13 @@ Now, *even more impactful* is that I have often reorganized code to lump types i
 
 Of course, there's a definite problem with inline variables in Delphi 10.3.3 as unfortunately the IDE tooling doesn't properly support it. Code Insight and Error Insight both fail to properly recognize inline variables. But, no worries, [**Delphi 10.4 Sydney**](https://github.com/ideasawakened/DelphiKB/wiki/D27.SYDNEY.10.4.0.0) is right around the corner and it introduces an **Error Insight Which Shall Not Suck**™
 
-![](/assets/blog/Delphi-Programming/Gandalf-Error-Insight-No-Longer-Sucks.jpg)
+![Error Insight - No Longer Sucks Gandalf](/assets/blog/Delphi-Programming/Gandalf-Error-Insight-No-Longer-Sucks.jpg)
 
 One of the very first things I have done with every new install of Delphi for a number of years is to disable the Error Insight option. It was simply wrong so often that it was more of a distraction than a benefit. With the upcoming support of the [**Language Server Protocol**](https://microsoft.github.io/language-server-protocol/), allowing the back-end tools to notify the front-end code editor which code has errors and which doesn't, Error Insight will produce the exact same errors as the compiler does - simply meaning that it will work as expected 100% of the time....thus, it **Shall Not Suck**.
 
 For more information, see *David Millington*'s recent [**blog post on the revamped Code Insight in Delphi 10.4**](https://community.idera.com/developer-tools/b/blog/posts/new-in-delphi-10-4-redesigned-code-insight). And, as they are saying, it's time to **Get Excited about Delphi 10.4**! Leveraging inline variables with an improved Code Insight, a much improved Error Insight, and some new internal insight to the benefits of inferred typing.
 
-![](/assets/blog/Delphi-Programming/10.4-Coming-Soon-Get-Excited.png)
+![RAD Studio 10.4 is coming soon](/assets/blog/Delphi-Programming/10.4-Coming-Soon-Get-Excited.png)
 
 ## UPDATE 1
 May 15, 2020
