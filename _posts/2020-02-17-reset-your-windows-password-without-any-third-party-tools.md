@@ -7,7 +7,7 @@ categories: [Tooling]
 tags: [Microsoft Windows]
 permalink: post/reset-your-windows-password-without-any-third-party-tools
 published: true
-image: /assets/blog/CleanPNG/Sale.png
+image: /assets/blog/Microsoft-Windows/Password-Recovery/Utilman-Trick-Square.png
 description: Easily hack your own system to recover lost Windows passwords.
 ---
 There are some tasks that come up infrequently, but when they occur you want a reliable solution. Losing your Windows password on an old virtual machine, laptop, or desktop happens on rare occasions and one temptation is to use a hacker tool to regain access. This isn't needed - as you can break the password yourself in a short amount of time without installing any third-party tool.

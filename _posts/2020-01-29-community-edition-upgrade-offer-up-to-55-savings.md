@@ -3,7 +3,7 @@ layout: post
 title: "Community Edition upgrade offer - up to 55% savings"
 date: 2020-01-29 12:00:00 +0000
 last_modified_at: 2020-01-29 12:00:00 +0000
-categories: [Delphi Programming]
+categories: [Tooling]
 tags: [Discounts, Community Edition, David Romoff]
 permalink: post/community-edition-upgrade-offer-up-to-55-savings
 published: true
