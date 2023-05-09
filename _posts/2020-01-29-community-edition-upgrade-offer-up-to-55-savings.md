@@ -4,7 +4,7 @@ title: "Community Edition upgrade offer - up to 55% savings"
 date: 2020-01-29 12:00:00 +0000
 last_modified_at: 2020-01-29 12:00:00 +0000
 categories: [Tooling, Discounts]
-tags: [Discounts, Community Edition, David Romoff]
+tags: [Discounts, Community Edition, David Romoff, Embarcadero]
 permalink: post/community-edition-upgrade-offer-up-to-55-savings
 published: true
 image: /assets/blog/CleanPNG/Sale.png

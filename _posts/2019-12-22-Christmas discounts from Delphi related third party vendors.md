@@ -4,7 +4,7 @@ title: "Christmas discounts from Delphi related third party vendors (2019)"
 date: 2019-12-22 12:00:00 +0000
 last_modified_at: 2019-12-22 12:00:00 +0000
 categories: [Tooling, Discounts]
-tags: [Discounts]
+tags: [Discounts, Blaise Pascal Magazine, nSoftware, BergSoft, CleverComponents, Embarcadero]
 permalink: post/christmas-discounts-from-delphi-related-third-party-vendors
 published: true
 image: /assets/blog/CleanPNG/ChristmasPresents-square.png
@@ -26,5 +26,3 @@ As a follow-up to the [**Black Friday and Cyber Monday discounts**](https://www.
     
 
 Also, Embarcadero has a [**special offers page**](https://www.embarcadero.com/radoffer) which currently lists RAD Studio at 10% off Professional, 20% off Enterprise and 25% off Architect editions.
-
-If you know of more, please let me know and I'll update the post. Reach out via [**LinkedIn**](https://www.linkedin.com/in/darianm/)**,** [**Facebook**](https://www.facebook.com/ideasawakened)**,** or add a comment below

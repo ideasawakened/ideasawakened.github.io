@@ -3,7 +3,7 @@ layout: post
 title: "Code count badges for your GitHub repositories"
 date: 2020-01-08 12:00:00 +0000
 last_modified_at: 2020-10-27 12:00:00 +0000
-categories: [Tooling]
+categories: [Tooling, SCM]
 tags: [GitHub, Tokei, JCL]
 permalink: post/code-count-badges-for-your-github-repositories
 published: true

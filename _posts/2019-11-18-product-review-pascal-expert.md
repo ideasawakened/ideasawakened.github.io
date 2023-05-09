@@ -4,7 +4,7 @@ title: "Product Review: Pascal Expert"
 date: 2019-11-18 12:00:00 +0000
 last_modified_at: 2019-11-18 12:00:00 +0000
 categories: [Delphi Programming, Review]
-tags: [Pascal Expert, Peganza, Static Code Analysis, Roman Yankovsky, Commercial Components]
+tags: [Pascal Expert, Peganza, Static Code Analysis, Roman Yankovsky]
 permalink: post/product-review-pascal-expert
 published: true
 image: /assets/blog/Peganza/Pascal-Expert/Menu_Options.png

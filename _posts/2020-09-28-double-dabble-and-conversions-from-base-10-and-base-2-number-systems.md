@@ -3,7 +3,7 @@ layout: post
 title: "Double-dabble and conversions from base-10 and base-2 number systems"
 date: 2020-09-28 12:00:00 +0000
 last_modified_at: 2020-09-28 12:00:00 +0000
-categories: [Delphi Programming]
+categories: [Delphi Programming, Algorithms]
 tags: [Algorithms, Brian Thomson]
 permalink: post/double-dabble-and-conversions-from-base-10-and-base-2-number-systems
 published: true

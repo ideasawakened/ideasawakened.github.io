@@ -4,7 +4,7 @@ title: "RAD Studio 10.4 Sydney is out - a few tweaks required and Community Edit
 date: 2020-05-29 12:00:00 +0000
 last_modified_at: 2020-06-10 12:00:00 +0000
 categories: [Delphi Programming, New Releases]
-tags: [David Millington, Marco Cantu, Sarina DuPont, DelphiKB]
+tags: [David Millington, Marco Cantu, Sarina DuPont, DelphiKB, Embarcadero]
 permalink: post/rad-studio-10-4-sydney-is-out-a-few-tweaks-required-and-community-edition-notes
 published: true
 image: /assets/blog/RAD-Studio-10.4-Sydney/Rad-Studio-10.4.jpg
