@@ -3,7 +3,7 @@ layout: post
 title: "TMonitor event stack fix by a true Delphi MVP"
 date: 2020-06-02 12:00:00 +0000
 last_modified_at: 2020-06-02 12:00:00 +0000
-categories: [Delphi Programming]
+categories: [Delphi Programming, Delphi Community]
 tags: [multi-threading, Kiriakos Vlahos, Anders Melander, David Heffernan, Uwe Raabe, Dmitry Arefiev, DelphiKB]
 permalink: post/tmonitor-event-stack-fix-by-a-true-delphi-mvp
 published: true

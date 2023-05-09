@@ -3,7 +3,7 @@ layout: post
 title: "Christmas discounts from Delphi related third party vendors (2019)"
 date: 2019-12-22 12:00:00 +0000
 last_modified_at: 2019-12-22 12:00:00 +0000
-categories: [Tooling]
+categories: [Tooling, Discounts]
 tags: [Discounts]
 permalink: post/christmas-discounts-from-delphi-related-third-party-vendors
 published: true
