@@ -3,19 +3,18 @@ layout: post
 title: "Product Review: Pascal Expert"
 date: 2019-11-18 12:00:00 +0000
 last_modified_at: 2019-11-18 12:00:00 +0000
-categories: [Delphi Programming, Components]
+categories: [Delphi Programming, Review]
 tags: [Pascal Expert, Peganza, Static Code Analysis, Roman Yankovsky, Commercial Components]
 permalink: post/product-review-pascal-expert
 published: true
 image: /assets/blog/Peganza/Pascal-Expert/Menu_Options.png
 description: Product review of Pascal Expert, a Delphi IDE plug-in featuring static source code analysis.
 ---
-
 The Delphi and Pascal developer community has historically had many active third-party tools and components. The current perception held by many is that the majority of these solutions have been neglected or abandoned. However, after you start looking, you'll discover that there is a vibrant third-party community still operating today. As part of a new blog series, we'll look at some of these solutions with Product Review posts such as this.
 
 We'll start with a tool from one of the stalwarts of the community, [**Peganza**](https://www.peganza.com/). We'll likely look at their venerable [**Pascal Analyzer**](https://www.peganza.com/products_pal.html) product in a future post, but we'll start today with its younger cousin [**Pascal Expert**](https://www.peganza.com/products_pex.html).
 
-### **What is Pascal Expert?**
+## **What is Pascal Expert?**
 
 Pascal Expert is an IDE plug-in for Delphi which performs **static code analysis** on the current project, also known as a "white-box" testing tool. Pascal Expert was first released back in October 2015.
 
@@ -33,31 +32,31 @@ Some may see some alerts as "noise" and these can be disabled in the options men
 
 ![Context sensitive help](/assets/blog/Peganza/Pascal-Expert/PEX_ContextSensitiveHelp.png)
 
-### **Alerts**
+## **Alerts**
 
 The first type of warnings are Alerts. There are currently 87 alerts provided with Pascal Expert, with 78 of them activated by default. The few that are not active are "possibly never set" type warnings which you can enable as needed. By default, these appear in Red in the output window. (Each type of alert can have its output window messages customized for font type, style, size, color, and background color.)
 
 ![List of alerts](/assets/blog/Peganza/Pascal-Expert/PEX_Alerts1.png)
 
-### **Reductions**
+## **Reductions**
 
 The next alert is Reductions. There are 24 provided with 20 active by default. (Again a few "possibly set" style warnings are disabled to reduce noise.) The full list of Reductions is displayed below. You'll see warnings such as "**Identifiers never used**" and these are displayed for you to possibly simplify your code base. This particular warning is displayed by the compiler if warnings are enabled. However, there are more advanced warnings available such as "**Fields only used in single method**" which could alert you to change the class field to a local variable.
 
 ![List of reduction alerts](/assets/blog/Peganza/Pascal-Expert/PEX_Reductions.png)
 
-### **Optimizations**
+## **Optimizations**
 
 This type of alert informs you of possible code changes which could yield better performance. There are 9 types of optimization alerts provided. The full list is displayed below, starting with an often-missed simple performance improvement: "**Missing 'const' for unmodified string parameter**."
 
 ![Optimization alert list](/assets/blog/Peganza/Pascal-Expert/PEX_Optimizations.png)
 
-### **Conventions**
+## **Conventions**
 
 The last type of alert is Conventions, with 22 common alerts to help standardize your code base by enforcing strict naming conventions, such as the Delphi standard practice of "**Interface types that do not start with an 'I'**" or leaving the default names for visual components such as "Edit1"
 
 ![Conventions alert list](/assets/blog/Peganza/Pascal-Expert/PEX_Conventions.png)
 
-### **Configuration**
+## **Configuration**
 
 You can configure keyboard short-cuts to execute Pascal Expert instead of using the menu or toolbar buttons. These options are available in the Options menu. **Note** that the product analyzes source code files, and not the in-memory editor buffer so you need to save changes before analyzing the source.
 
@@ -69,15 +68,15 @@ You can also easily mark specific items in code to be excluded. You can either u
 
 ![Report config](/assets/blog/Peganza/Pascal-Expert/PEX_ReportingConfig.png)
 
-### **Automation**
+## **Automation**
 
 Runtime automation is only available with their Pascal Analyzer product. Pascal Expert is for manual use within the IDE only.
 
-### **Support**
+## **Support**
 
 Email support is available and has proven on multiple occurrences to be timely with responses received under one business day, some within one hour. They also offer a [**FAQ Page**](https://peganza.com/faq.html) covering some common issues. Their [**blog**](https://peganza.com/blog.html) is frequently updated as well.
 
-### **Alternatives**
+## **Alternatives**
 
 -   Perhaps the very first white-box plug-in for Delphi was [**FixInsight**](https://tmssoftware.com/site/fixinsight.asp). This was originally written by **Roman Yankovsky** and introduced in early 2015. It was picked up by **TMS Software** in [June 2016](http://sourceoddity.com/fi_tms.html). We'll look at this product in a future post, but a quick review reveals that it offers only a small subset of warnings that Pascal Expert provides. It does seem to be popular so perhaps there are features that we'll find after a deeper dive. (Automation is available in the FixInsight Pro license.)
     
@@ -88,7 +87,7 @@ Email support is available and has proven on multiple occurrences to be timely w
 -   For years, the main competitor to Pascal Analyzer was [**CodeHealer**](http://www.socksoftware.com/codehealer.php). Unfortunately, this product appears abandoned.
     
 
-### **Technical Details**
+## **Technical Details**
 
 -   **Compatibility**: All versions of Delphi from 2007 to current are supported.
     
@@ -105,6 +104,6 @@ Email support is available and has proven on multiple occurrences to be timely w
 -   **Cost saving bundling option**: if you are interested in Pascal Analyzer (or their other product, Pascal Browser) then it makes sense to purchase a bundle of products for significant savings. See their [**orders page**](https://peganza.com/orders.html) for details.
     
 
-### **Summary**
+## **Summary**
 
 Every developer should be actively utilizing static source analysis tools during the development process and Pascal Expert is one of the few available for Delphi. It is simply a **must-have tool** and the cost is negligible for the value it provides. If you don't have a copy, you should download their demo today!
