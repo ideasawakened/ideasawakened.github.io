@@ -4,7 +4,7 @@ title: "Christmas discounts from Delphi related third party vendors (2019)"
 date: 2019-12-22 12:00:00 +0000
 last_modified_at: 2019-12-22 12:00:00 +0000
 categories: [Tooling, Discounts]
-tags: [Discounts, Blaise Pascal Magazine, nSoftware, BergSoft, CleverComponents, Embarcadero]
+tags: [Discounts, Blaise Pascal Magazine, nSoftware, Bergsoft, CleverComponents, Embarcadero]
 permalink: post/christmas-discounts-from-delphi-related-third-party-vendors
 published: true
 image: /assets/blog/CleanPNG/ChristmasPresents-square.png
