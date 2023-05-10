@@ -410,7 +410,7 @@ Within the **Branches to build** section, you will need to change the default **
 
 In the **Build** section, click on the **Add build step** button and select the **Execute Windows batch command** option. In the **Command** text box enter in the following:
 
-````shell
+````
 "%WORKSPACE%\Utils\Build_10.4.bat" "%WORKSPACE%\Projects\Hello World\Source" HelloWorld.dproj Debug Win32
 ````
 
@@ -472,13 +472,13 @@ The sample Hello World project also contains a simple unit test project. We will
 
 Bring up the **Project Configuration Page** of this first sample project and scroll down to the bottom and select **Add build step** and then select the **Execute Windows batch command** option. We will use our simple Delphi batch file to build the unit test project. In the **Command** text box enter in the following:
 
-````shell
+````
 "%WORKSPACE%\Utils\Build_10.4.bat" "%WORKSPACE%\Projects\Hello World\Tests\DUnit" HelloWorldTests.dproj Debug Win32
 ````
 
 Click on **Add build step** again and then again select the **Execute Windows batch command** option. In the **Command** text box enter in the following to run the newly created unit test executable (which will create a **_dunit-report.xml_** report file upon completion):
 
-````shell
+````
 "%WORKSPACE%\Projects\Hello World\Tests\DUnit\Win32\Debug\HelloWorldTests.exe"
 ````
 
