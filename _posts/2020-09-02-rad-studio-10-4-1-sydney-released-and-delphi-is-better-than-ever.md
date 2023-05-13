@@ -4,7 +4,7 @@ title: "RAD Studio 10.4.1 Sydney Released - and Delphi is better than ever!"
 date: 2020-09-02 12:00:00 +0000
 last_modified_at: 2020-09-04 12:00:00 +0000
 categories: [Delphi Programming, New Releases]
-tags: [Kiriakos Vlahos, Grijjy, DelphiKB, Embarcadero]
+tags: [Kiriakos Vlahos, Grijjy, DelphiKB, Embarcadero, 10.4 Sydney]
 permalink: post/rad-studio-10-4-1-sydney-released-and-delphi-is-better-than-ever
 published: true
 image: /assets/blog/RAD-Studio-10.4-Sydney/Delphi-10.4.1-Now-Available-small.jpg

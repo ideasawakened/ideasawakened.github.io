@@ -14,6 +14,8 @@ description: "Delph is a 10x developer secret weapon for productivity.  Cross-pl
 
 There are lots of discussions available about 10x Programmers, also known as Rockstar Developers, and even a book on [**The Leprechauns of Software Engineering**](https://leanpub.com/leprechauns)**.** You can call them _10x_ or _Leprechauns_ or whatever term you like - but based on a few decades of interacting with different developers of all skill levels, I will assert that a wide variation among developers is definitely a fact of life. I will also assert that the tools used by those highly productive developers help them achieve their mythical status.
 
+
+## Delphi is a secret weapon
 ![Delphi is the 10x Developer secret weapon](/assets/blog/Delphi-Programming/Delphi-10X-Developer-Secret-Weapon.png)
 
 Delphi is based on Pascal which was originally designed by [**Niklaus Wirth**](https://www.i-programmer.info/news/82-heritage/14352-niklaus-wirth.html) to help teach programming as a discipline. Pascal was widely used in college campuses for a number of years as it is an easy to use programming language for beginners. The only computer related class that I had in college back in 1986 covered Pascal and I remember it seeming fairly similar to the AppleSoft Basic clone I was using on my fancy 3.5MHz computer. I even have the original classroom book "Pascal Programming and Problem Solving" by Leestma and Nyhoff. Unfortunately for me, this particular book did not really grab my attention as I took a few year detour and obtained my degree in Accounting before figuring out how boring it was and switched to programming full time. I eventually started using Delphi 4 to help speed up parts of our main application before finally converting the entire multi-million line project over to Delphi 5 when speed of some highly visible and critical parts of the application increased by over 1,000% after that conversion.
@@ -28,13 +30,14 @@ One example that I will share of real world 10x performance is one of our develo
 
 For Microsoft Windows desktop application development, Delphi is well known to be a fantastic tool for the job. Since the Delphi XE2 release back in 2011, Delphi has also supported a new GUI framework for [**cross-platform applications**](https://www.ideasawakened.com/post/delphi-programming-how-it-started-how-it-s-going). The idea is to use the [**FireMonkey**](https://blogs.embarcadero.com/firemonkey-vs-vcl/) framework to support a single codebase able to run your applications on Windows, macOS, iOS, Android, and Linux. It is an ever-more powerful secret weapon of cross-platform developers as you can share most of your codebase across all these platforms. (I wonder how many Xamarin developers are 10x? That one guy in Toledo might qualify... )
 
-**Happy 26th Birthday Delphi!** Many people simply do not understand the true value that Delphi brings to the table. Windows application development, cross-platform app development, middle-tier service development, and even web development can be achieved with Delphi. **Delphi is an industry secret that many 10x developers are using to make miracles happen every day.**
+## Happy 26th Birthday Delphi!
+Many people simply do not understand the true value that Delphi brings to the table. Windows application development, cross-platform app development, middle-tier service development, and even web development can be achieved with Delphi. **Delphi is an industry secret that many 10x developers are using to make miracles happen every day.**
 
 ![Delphi Birthday - 26 years old](/assets/blog/Delphi-Programming/Delphi-Is-26-years-old.jpg)
 
 Take this opportunity to get [**26% off Delphi**](https://www.embarcadero.com/radoffer) and all products from Ebarcadero. Discount good until February 28, 2021.
 
-### Update
+## Update
 More info on a 10x Developer:
 
 [**https://blog.codegiant.io/how-to-become-a-10x-engineer-492fa3f57101**](https://blog.codegiant.io/how-to-become-a-10x-engineer-492fa3f57101)

@@ -4,7 +4,7 @@ title: "Update 3 for RAD Studio 10.3 Rio has been released!"
 date: 2019-11-21 12:00:00 +0000
 last_modified_at: 2019-11-21 12:00:00 +0000
 categories: [Delphi Programming, New Releases]
-tags: [10.3 RIO]
+tags: [10.3 RIO, DelphiKB]
 permalink: post/update-3-for-rad-studio-10-3-rio-has-been-released
 published: true
 image: /assets/blog/RAD-Studio-10.3-Rio/RAD-Studio-10.3.3-Rio-Released.jpg

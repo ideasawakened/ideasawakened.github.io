@@ -4,7 +4,7 @@ title: "Delphi 10.4 Sydney is the best tool for creating Windows Applications"
 date: 2020-05-24 12:00:00 +0000
 last_modified_at: 2020-05-24 12:00:00 +0000
 categories: [Delphi Programming, New Releases]
-tags: [Jim McKeeth, Microsoft Windows, Embarcadero]
+tags: [Jim McKeeth, Microsoft Windows, Embarcadero, DelphiKB]
 permalink: post/delphi-10-4-sydney-is-the-best-tool-for-creating-windows-applications
 published: true
 image: /assets/blog/RAD-Studio-10.4-Sydney/Delphi-Best-Windows-Dev-Tool.png
