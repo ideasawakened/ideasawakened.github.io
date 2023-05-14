@@ -7,7 +7,7 @@ categories: [Delphi Programming, New Releases]
 tags: [David Schwartz, Discounts, 10.4 Sydney]
 permalink: post/rad-studio-10-4-2-is-now-available-with-possible-cure-for-the-blue-dot-problem
 published: true
-image: /assets/blog/RAD-Studio-10.4-Sydney/RADStudio-LSP-Improvements-square.png
+image: /assets/blog/RAD-Studio-10.4-Sydney/Delphi-Blue-Dot-Problem-square.png
 description: "RAD Studio 10.4 Sydney Update 2 was recently released with many new features and improvements.  One such improvement solves an old debugging issue where the blue dots in the editor do not match the source code lines."
 ---
 If you are long-time Delphi user then you probably know what I mean when I reference the "**Blue Dot Problem**". For those that do not, I will start with an example.
