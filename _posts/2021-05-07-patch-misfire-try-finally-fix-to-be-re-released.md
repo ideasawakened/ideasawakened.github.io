@@ -8,7 +8,7 @@ tags: [10.4 Sydney, João Antônio Duarte, Dalija Prasnikar, Takeshi Arisawa, Vi
 permalink: post/patch-misfire-try-finally-fix-to-be-re-released
 published: true
 image: /assets/blog/RAD-Studio-10.4-Sydney/RSP-33117.jpg
-description: "Quick summary of the two patches released today for Delphi 10.4.2 including fixes for F2046 Internal Error and F2084 Internal Error which was occuring for some users of RAD Studio 10.4.2 Sydney."
+description: "One of the patches for Delphi 10.4.2 needs to be re-released. (Try/Finally fix on Non-Windows platforms.)"
 ---
 As posted in [**yesterday's blog post**](https://www.ideasawakened.com/post/two-patches-for-rad-studio-10-4-2-sydney-released), there were two patches released for a few critical bugs in Delphi 10.4.2. One bug fix was [**RSP-33117**](https://quality.embarcadero.com/browse/RSP-33117) which involves an issue with TRY/FINALLY when there was a RAISE statement within the FINALLY section on non-Windows platforms.
 
