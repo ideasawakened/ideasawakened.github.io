@@ -10,7 +10,6 @@ published: true
 image: /assets/blog/RAD-Studio-10.4-Sydney/RADStudio-LSP-Improvements-square.png
 description: "RAD Studio 10.4 Sydney Update 2 was recently released with many new features and improvements.  One such improvement solves an old debugging issue where the blue dots in the editor do not match the source code lines."
 ---
-
 If you are long-time Delphi user then you probably know what I mean when I reference the "**Blue Dot Problem**". For those that do not, I will start with an example.
 
 The blue dots displayed in the editor gutter area represent executable lines of code that you can step through with the debugger and set breakpoints on. You should be able to quickly notice the Blue Dot problem in the image below. The blue dots should start on the first **begin** statement and there should obviously be a dot on the last **ShowMessage** line. There is also a trailing blue dot on empty line number 38. This is because the entire set of blue dots in this code snippet has been shifted one line down.

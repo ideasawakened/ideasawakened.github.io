@@ -4,7 +4,7 @@ title: "Newly discovered hidden benefits of inline variables in Delphi"
 date: 2020-05-08 12:00:00 +0000
 last_modified_at: 2021-03-18 12:00:00 +0000
 categories: [Delphi Programming, Example Code]
-tags: [Stefan Glienke, David Millington]
+tags: [Stefan Glienke, David Millington, 10.3 Rio]
 permalink: post/newly-discovered-hidden-benefits-of-inline-variables-in-delphi
 published: true
 image: /assets/blog/Delphi-Programming/Inline-Variables_small.png
