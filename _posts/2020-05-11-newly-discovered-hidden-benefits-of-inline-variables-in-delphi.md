@@ -8,7 +8,7 @@ tags: [Stefan Glienke, David Millington, 10.3 Rio]
 permalink: post/newly-discovered-hidden-benefits-of-inline-variables-in-delphi
 published: true
 image: /assets/blog/Delphi-Programming/Inline-Variables_small.png
-description: Local inline variables with local scope and type inference in Delphi 10.3 RIO programming adds multiple benefits, some not as obvious at first glance.
+description: Local inline variables with local scope and type inference in Delphi 10.3 Rio programming adds multiple benefits, some not as obvious at first glance.
 ---
 ![Delphi code demonstrating inline variables](/assets/blog/Delphi-Programming/Inline-Variables_Type-Inference.png)
 
@@ -81,7 +81,7 @@ In any case, once you hit F9 to run you will get an error similar to:
 
 This is definitely a common annoyance. To fix, you go back to the Uses clause and add **System.Types**. Now when you hit F9, your code should run just fine.
 
-Now, what if you leveraged the benefits of [**Delphi 10.3 RIO**](https://www.embarcadero.com/products/rad-studio/whats-new-in-10-3-rio)? Continue with the same example VCL project and simply re-code your Click event to use inline variables, similar to this:
+Now, what if you leveraged the benefits of [**Delphi 10.3 Rio**](https://www.embarcadero.com/products/rad-studio/whats-new-in-10-3-rio)? Continue with the same example VCL project and simply re-code your Click event to use inline variables, similar to this:
 
 ````pascal
 procedure TForm1.Button1Click(Sender: TObject);
@@ -125,7 +125,7 @@ For more information, see *David Millington*'s recent [**blog post on the revamp
 
 ## UPDATE 1
 May 15, 2020
-For further reading on inline variables in **Delphi 10.3 RIO** check out these links:
+For further reading on inline variables in **Delphi 10.3 Rio** check out these links:
 - [**blog.grijjy.com: Inline Variables can increase performance**](https://blog.grijjy.com/2018/11/02/inline-variables-can-increase-performance/)
 - [**langraf.dev: 5 Reasons to Use Inline Variables in Delphi**](https://landgraf.dev/en/5-reasons-to-use-inline-variables-in-delphi/)
 
