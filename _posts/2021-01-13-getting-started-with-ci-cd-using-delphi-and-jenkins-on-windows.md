@@ -4,7 +4,7 @@ title: "Getting started with CI/CD using Delphi and Jenkins on Windows"
 date: 2021-01-13 12:00:00 +0000
 last_modified_at: 2021-02-02 12:00:00 +0000
 categories: [Tooling, Automation]
-tags: [Jenkins, Build Server, Continuous Integration, Pascal Expert, Pascal Analyzer, Mike Rozlog]
+tags: [Jenkins, Build Server, Continuous Integration, Pascal Expert, Pascal Analyzer, Mike Rozlog, Telegram]
 permalink: post/getting-started-with-ci-cd-using-delphi-and-jenkins-on-windows
 published: true
 image: /assets/blog/Continuous-Integration/Delphi-Jenkins-Square.png
