@@ -4,7 +4,7 @@ title: "Announcement: DelphiCon 2020 coming November 17-19th"
 date: 2020-10-03 12:00:00 +0000
 last_modified_at: 2020-10-12 12:00:00 +0000
 categories: [Delphi Programming, Delphi Community]
-tags: [Marco Cantu, Bruno Fierens, Holger Flick, Primož Gabrijelcic, Stefan Glienke, Nick Hodges, Andrea Magni, David Millington, Bob Swart]
+tags: [DelphiCon, Marco Cantu, Bruno Fierens, Holger Flick, Primož Gabrijelcic, Stefan Glienke, Nick Hodges, Andrea Magni, David Millington, Bob Swart]
 permalink: post/announcement-delphicon-2020-coming-november-17-19th
 published: true
 image: /assets/blog/DelphiCon/2020/DelphiLogo.png

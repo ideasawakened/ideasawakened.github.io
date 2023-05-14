@@ -8,7 +8,7 @@ tags: [Alister Christie]
 permalink: post/new-book-available-code-faster-in-delphi-by-alister-christie
 published: true
 image: /assets/blog/Books/Code-Faster-In-Delphi-small.png
-description: Short review on Alister Chrisite's new book "Code Faster in Delphi"
+description: Short review on Alister Christie's new book "Code Faster in Delphi"
 ---
 It's great to see books still being published targeting Delphi developers. The latest one is from a well known Delphi developer, **Alister Christie** and it's called [**Code Faster In Delphi**](https://leanpub.com/codefasterindelphi), which is available from as an e-book from [**LeanPub**](https://leanpub.com/). (Available as PDF for reading on a computer, EPUB for reading on phones and tables, and MOBI for reading on a Kindle. It should be available in hardcopy/print form soon.)
 

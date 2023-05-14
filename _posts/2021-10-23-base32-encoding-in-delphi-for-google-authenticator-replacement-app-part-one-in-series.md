@@ -4,11 +4,11 @@ title: "Base32 encoding in Delphi for an upcoming Google Authenticator replaceme
 date: 2021-10-23 12:00:00 +0000
 last_modified_at: 2021-10-23 12:00:00 +0000
 categories: [Delphi Programming, Example Code]
-tags: [RAD Programmer, rad-authenticator, Markus Humm]
+tags: [Algorithms, RAD Programmer, rad-authenticator, Markus Humm, Unit Testing]
 permalink: post/base32-encoding-in-delphi-for-google-authenticator-replacement-app-part-one-in-series
 published: true
 image: /assets/blog/Delphi-Programming/base32-encoding/base32-example.png
-description: "The first in a series of blog posts dedicated to building a cross-platform Google Authenticator type app in Delphi. "
+description: "The first in a series of blog posts dedicated to building a cross-platform Google Authenticator type app in Delphi."
 ---
 Programmers can be an odd lot - we can have a perfectly good tool available to us and we still yearn to build our own version of it. In this case, [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US&gl=US) was released back in 2010 and has been my primary tool to satisfy **Mutli-Factor Authentication** for many applications. This particular two-step verification process uses the **Time-based One-time Password Algorithm** (TOTP) to generate 6 digit pin codes offering a second piece of authentication.
 

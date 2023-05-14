@@ -4,7 +4,7 @@ title: "RADAuthenticator Part 2 - Generate one time password tokens in Delphi us
 date: 2021-10-23 12:00:00 +0000
 last_modified_at: 2021-10-23 12:00:00 +0000
 categories: [Delphi Programming, Example Code]
-tags: [RAD Programmer, rad-authenticator]
+tags: [Algorithms,RAD Programmer, rad-authenticator, Unit Testing]
 permalink: post/radauthenticator-part-2-generate-one-time-password-tokens-in-delphi-using-totp
 published: true
 image: /assets/blog/Delphi-Programming/OTP-Calculation.png

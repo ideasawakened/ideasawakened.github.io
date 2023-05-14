@@ -4,7 +4,7 @@ title: "Black Friday discounts from Delphi related third party vendors (2019)"
 date: 2019-11-26 12:00:00 +0000
 last_modified_at: 2019-11-26 12:00:00 +0000
 categories: [Tooling, Discounts]
-tags: [Discounts, Aquafold, Bergsoft, CleverComponents, Components4Developers, DelphiParser, DevArt, EurekaLog, Helpinator, HelpNDoc, Primož Gabrijelcic, TMS Software, Embarcadero, CodePartners]
+tags: [Discounts, Aquafold, Bergsoft, CleverComponents, Components4Developers, DelphiParser, DevArt, EurekaLog, Helpinator, HelpNDoc, Primož Gabrijelcic, TMS Software, Embarcadero, Code Partners]
 permalink: post/black-friday-discounts-from-delphi-related-third-party-vendors
 published: true
 image: /assets/blog/CleanPNG/black-friday-discounts-square.png
@@ -42,7 +42,7 @@ On a related note, there is a **RAD Studio 10.3.3 Release Special** available fr
 
 As mentioned today (2019.11.27) on the [**Delphi-Praxis forums**](https://en.delphipraxis.net/topic/2019-30-and-35-discount-on-delphi/) (the international Delphi community which was the main replacement for Google+ users when it shut down), Embarcadero is apparently offering special pricing for Black Friday week (2019.11.29 to 2019.12.06) with a [**special link**](https://lp.embarcadero.com/blackweek2019de) for 25% of a Professional license and 30% off Enterprise and Architect. The link is in German - here is the [**English translated version**](https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Flp.embarcadero.com%2Fblackweek2019de) by Google. (I also just received an email from my Embarcadero sales rep with similar offerings with custom links to purchase, as well as 40% off C++ Builder)
 
-[**CodePartners**](https://www.code-partners.com/) has a special that is good until the end of November for 30% off RAD Studio, Delphi and C++Builder Professional or 35% off the Enterprise and Architect editions. These discounts are available for customers in Australia, New Zealand and South East Asia. See their [**special offer announcement page**](https://www.code-partners.com/rad-studio-10-3-3-released-and-a-special-offer-to-celebrate/).
+[**Code Partners**](https://www.code-partners.com/) has a special that is good until the end of November for 30% off RAD Studio, Delphi and C++Builder Professional or 35% off the Enterprise and Architect editions. These discounts are available for customers in Australia, New Zealand and South East Asia. See their [**special offer announcement page**](https://www.code-partners.com/rad-studio-10-3-3-released-and-a-special-offer-to-celebrate/).
 
 ### **Other Discounts**
 

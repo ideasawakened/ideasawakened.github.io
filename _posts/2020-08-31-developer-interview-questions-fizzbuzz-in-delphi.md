@@ -4,7 +4,7 @@ title: "Developer interview questions: FizzBuzz in Delphi"
 date: 2020-08-31 12:00:00 +0000
 last_modified_at: 2020-09-01 12:00:00 +0000
 categories: [Delphi Programming, Example Code]
-tags: [Job Search, Martin Fowler, DelphiKB]
+tags: [Martin Fowler, DelphiKB]
 permalink: post/developer-interview-questions-fizzbuzz-in-delphi
 published: true
 image: /assets/blog/Delphi-Programming/FizzBuzz-Delphi-small.png

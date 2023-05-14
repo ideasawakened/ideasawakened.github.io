@@ -4,7 +4,7 @@ title: "Unit Testing FizzBuzz in Delphi"
 date: 2020-09-01 12:00:00 +0000
 last_modified_at: 2020-09-01 12:00:00 +0000
 categories: [Delphi Programming, Example Code]
-tags: [Job Search, TDD, DelphiKB]
+tags: [DelphiKB, Unit Testing]
 permalink: post/unit-testing-fizzbuzz-in-delphi
 published: true
 image: /assets/blog/Delphi-Programming/FizzBuzz-Unit-Testing-small.png
