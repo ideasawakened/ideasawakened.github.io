@@ -4,7 +4,7 @@ title: "Reset your Windows password without any third party tools"
 date: 2020-02-17 12:00:00 +0000
 last_modified_at: 2020-02-17 12:00:00 +0000
 categories: [Tooling, Microsoft Windows]
-tags: [Microsoft Windows]
+tags: [Microsoft Windows, Security]
 permalink: post/reset-your-windows-password-without-any-third-party-tools
 published: true
 image: /assets/blog/Microsoft-Windows/Password-Recovery/Utilman-Trick-Square.png

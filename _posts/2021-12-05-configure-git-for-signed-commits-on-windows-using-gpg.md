@@ -4,7 +4,7 @@ title: "Configure Git for signed commits on Windows using GPG"
 date: 2021-12-05 12:00:00 +0000
 last_modified_at: 2021-12-05 12:00:00 +0000
 categories: [Tooling, SCM]
-tags: [GitHub, git]
+tags: [GitHub, git, Security]
 permalink: post/configure-git-for-signed-commits-on-windows-using-gpg
 published: true
 image: /assets/blog/SCM/git/signed-git-commits/Commits-now-verified.png
