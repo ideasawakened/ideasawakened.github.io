@@ -7,7 +7,7 @@ categories: [Delphi Programming, Community]
 tags: [StackOverflow]
 permalink: post/2023-stack-overflow-developer-survey-includes-delphi-place-your-vote-today
 published: true
-image: /assets/blog/StackOverflow/so-dev-survey-2023-blog-1200x630.png
+image: /assets/blog/StackOverflow/stackoverflow-dev-survey-2023-square.png
 description: "Delphi is on the Stack Overflow 2023 Developer Survey.  Ensure you participate to help represent Delphi in the developer community!"
 ---
 The 13th annual developer survey from Stack Overflow includes options to select [**Delphi**](https://www.embarcadero.com/products/delphi) and [**RAD Studio**](https://www.embarcadero.com/products/rad-studio). This is a very popular survey within the developer community with over 70,000 developers participating last year - so let’s help represent the Delphi developer!
