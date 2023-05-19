@@ -554,14 +554,4 @@ You will also see [**Hudson**](http://www.eclipse.org/hudson/) mentioned in many
 
 I hope this general introduction to introducing Jenkins into your project development lifecycle has sparked some interest in automation. Through the powerful combination of automation and testing, you can be more creative and take more risks while feeling less stressed. For the Delphi programmers out there - the more automation takes over the manual grunt work of building, testing, and deploying projects - it will give you more time to code! For the managers out there - the less time your dev staff is involved in this build/test/deploy process the more time they will have to create that new feature your clients have been waiting for! And the quicker the bugs are found, the quicker they are solved and the less time will be spent in maintaining old code versus creating new code.
 
-## **Continue the Conversation!**
-
-What are your thoughts on CI/CD with Delphi? Each of the topics above has a few books dedicated to the issue so I certainly only briefly touched each topic. Share any feedback anytime with me via [**Twitter**](https://twitter.com/ideasawakened) or [**LinkedIn**](https://www.linkedin.com/in/darianm/).
-
-A few new options are available for the Delphi community to electronically gather. As my last blog post stated, a new [**Slack workspace**](https://www.ideasawakened.com/post/new-workspace-on-slack-com-dedicated-for-delphi-programmers) was created just the other day for those that prefer to use Slack and currently has 120+ members.
-
-There is also a new Telegram group chat available with 80+ members that is freely available to join: [**https://t.me/delphidevelopers**](https://t.me/delphidevelopers) Telegram has seen a large spike of usage lately with the current overzealous activity of Twitter and Facebook. They posted the following notice yesterday stating they surpassed 500 million active users and 25 million new accounts were added in the last 72 hours.
-
-![Telegram surpassed 500 million active users](/assets/blog/Delphi-Programming/Social-Media/telegram-update-20210112.png)
-
 **Remark:** _Eating an elephant one bite at a time_ is a common phrase used in the United States and may not be well received by some ... please substitute "eating elephants" for something else extremely large to eat as desired.

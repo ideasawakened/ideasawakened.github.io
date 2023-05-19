@@ -63,7 +63,3 @@ And if you are a C++ developer, did you know that [**RAD Studio**](https://www.e
 \- Provides a [**unified memory model**](https://dalijap.blogspot.com/2020/03/unified-memory-management-coming-with.html) between VCL and FMX to greatly enhance the portability of code between the two user interface frameworks
 
 \- And even the core system libraries have been improved with new standard functions and [**performance optimizations**](https://community.idera.com/developer-tools/b/blog/posts/coming-delphi-10-4-runtime-library-enhancements).
-
-### **Connections**
-
-I've been a Delphi developer for over twenty years but like many others, I haven't spent a lot of time connecting with others. For whatever reason, Delphi developers seem to be some of the least active developers online. Let's change that and connect today! Please send me a connection request on [**LinkedIn**](https://www.linkedin.com/in/darianm/) and you can follow my new **Ideas Awakened Inc** company on [**Twitter**](https://twitter.com/ideasawakened), [**Facebook**](https://www.facebook.com/ideasawakened/) and [**LinkedIn**](https://www.linkedin.com/company/ideasawakened).

@@ -130,4 +130,4 @@ If you would like to see this small utility class expanded in some way, simply l
 -   [**RSP-29287 Wrong text positioning for TButton with custom style**](https://quality.embarcadero.com/browse/RSP-29287) **Update:** There is a work-around detailed in RSP-29287 comments for editing Vcl.StdCtrls.pas.
     
 
-If you have any other blocking issues, I would like to hear about them. Please send me a message on [**Twitter**](https://twitter.com/ideasawakened) or [**LinkedIn**](https://www.linkedin.com/in/darianm/).
+If you have any other blocking issues, I would like to hear about them!  Please reach out today!
