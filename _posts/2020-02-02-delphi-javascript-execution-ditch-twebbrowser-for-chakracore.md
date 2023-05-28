@@ -5,7 +5,7 @@ date: 2020-02-02 12:00:00 +0000
 last_modified_at: 2020-02-02 12:00:00 +0000
 categories: [Delphi Programming, Example Code]
 tags: [DelphiKB, ChakraCore, Javascript, TWebBrowser, Ondrej Kelle, Salvador Díaz Fau, Grijjy]
-permalink: post/delphi-javascript-execution-ditch-twebbrowser-for-chakracor
+permalink: post/delphi-javascript-execution-ditch-twebbrowser-for-chakracore
 published: true
 image: /assets/blog/javascript/Chakra-Core/chakra-core-example-delphi-square.png
 description: Using Microsoft ChakraCore binaries in Delphi projects
