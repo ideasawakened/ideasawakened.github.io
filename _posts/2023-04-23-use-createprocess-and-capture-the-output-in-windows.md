@@ -84,7 +84,7 @@ As soon as CreateProcess completes, you should call CloseHandle on the hWritePip
 
 ## WaitForProcessCompletion becomes a little more complex
 
-Typically, it is fairly simple to wait for a child process to complete as you simple use [**WaitForSingleObject**](https://learn.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-waitforsingleobject) with the handle of the child process along using an INFINITE timeout. We do not want to block on waiting for the process to end as it would be nice to get the output while the process is running so you either [**use threading**](https://stackoverflow.com/a/19070738) to capture the output in the background or you use a polling mechanism which I have done using the PeekNamedPipe Windows API function.
+Typically, it is fairly simple to wait for a child process to complete as you simply use [**WaitForSingleObject**](https://learn.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-waitforsingleobject) with the handle of the child process along using an INFINITE timeout. In this case, we usually do not want to block the parent on waiting for the child process to end as we typically want to grab the output while the child process is running - so you either [**use threading**](https://stackoverflow.com/a/19070738) to capture the output in the background or you use a polling mechanism which I have done using the PeekNamedPipe Windows API function.
 
 ![PeekNamePipe in Delphi](/assets/blog/Microsoft-Windows/Named-Pipes/PeekNamedPipe.png)
 
