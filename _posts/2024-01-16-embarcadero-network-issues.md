@@ -7,7 +7,7 @@ categories: [Community]
 tags: [Embarcadero, Ian Barker, Jeroen Wiert Pluimers]
 permalink: post/embarcadero-network-issues
 published: true
-image: /assets/blog/Embarcadero/ConnectionFailure-Small.png
+image: /assets/blog/Embarcadero/ConnectionFailure-small.png
 description: 'Quick post covering the recent issues connecting to Embarcadero websites'
 ---
 
