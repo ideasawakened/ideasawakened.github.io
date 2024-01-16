@@ -17,7 +17,7 @@ There has been persistent connectivity issues recently to Embarcadero websites i
 [![Update on outage](/assets/blog/Embarcadero/IanBarker-Update.png)](https://t.me/delphidevelopers/35711)
 
 
-For future reference, there is a status page that you can refer to verify the uptime of their web services: https://stats.uptimerobot.com/3yP3quwNW   This was put online by the veritable `Jeroen Wiert Pluimers` as posted on Twitter back in 2022.  
+For future reference, there is a status page that you can refer to verify the uptime of their web services: [https://stats.uptimerobot.com/3yP3quwNW](https://stats.uptimerobot.com/3yP3quwNW)  This was put online by the veritable `Jeroen Wiert Pluimers` as posted on Twitter back in 2022.  
 
 [![Uptime Monitoring of Embarcadero Sites](/assets/blog/Embarcadero/Jeroen-Twitter-Post.png)](https://twitter.com/jpluimers/status/1495669278519046148)
 
