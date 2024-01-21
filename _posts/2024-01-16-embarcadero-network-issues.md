@@ -27,24 +27,17 @@ Look for an official announcement on Embarcadero's [blog site](https://blogs.emb
 ![Connection Failure](/assets/blog/Embarcadero/Connection-Failure.png)
 
 ## UPDATE 1
-`January 15, 2024`
-
-**Ian Barker** posted an update on [Discord](https://discord.com/channels/623794270255579146/623835476037730304/1196456421215187006): "There is currently an outage affecting several key services including the GetIt package manager, DocWiki, and several other key systems.
-
-The outage is caused by a central piece of hardware failing (some kind of controller). It is being worked on with a replacement on the way. No ETA but everyone who could possibly be involved at the highest levels are dealing with it and get it all back online ASAP."
-
-## UPDATE 2
 `January 17, 2024`
 
 **Ian Barker** released a blog post with some details about the outage:
 * [Some Embarcadero Servers Are Experiencing A Hardware Outage](https://blogs.embarcadero.com/we-are-experiencing-a-hardware-outage/)
 
-## Update 3
+## Update 2
 `January 20, 2024`
 
 **Ian Barker** announced on Slack that Embarcadero has put some packages up on [my.embarcadero.com](https://my.embarcadero.com) so that people with an update subscription can download them and install then is the GetIt "install local packages" function.
 
-## Update 4
+## Update 3
 `January 21, 2024`
 
 **Uwe Raabe** posted some [instructions](https://en.delphipraxis.net/topic/10835-fyi-several-embarcadero-services-are-currently-unavailable/?do=findComment&comment=86688) on the Delphi-PRAXiS forums on how to reinstall help from the ISO while the network outage continues:
@@ -68,3 +61,6 @@ Based on a manual check, it appears that the main servers are all online except 
 
 
 ![GetIt Server Outage](/assets/blog/Embarcadero/GetIt-Outage.png)
+
+
+**Note:** You can edit the layout of the Welcome Page and remove the GetIt panels ("New in GetIt" and "Promoted in GetIt") to prevent the excess load on their servers and the lag on your system during this outage.
