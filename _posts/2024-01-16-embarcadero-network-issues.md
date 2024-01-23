@@ -75,13 +75,9 @@ Embarcadero staff might be getting a little stressed about this outage by now.  
 
 The [DocWiki](https://docwiki.embarcadero.com/) is back online as of 16:40 UTC.  GetIt still seems to be having troubles.
 
----
-## Current status
-`January 22, 2024 23:50 UTC`
 
-Based on a manual check, it appears that the main servers are all online except [DocWiki](https://docwiki.embarcadero.com/) and GetIt.
-
-
+## Current Status
+GetIt remains offline
 ![GetIt Server Outage](/assets/blog/Embarcadero/GetIt-Outage.png)
 
 
