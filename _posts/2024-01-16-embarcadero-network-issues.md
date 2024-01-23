@@ -64,6 +64,10 @@ Embarcadero staff might be getting a little stressed about this outage by now.  
 - Reference ticket for 2024 [RSP-44128](https://quality.embarcadero.com/browse/RSP-44128)
 
 
+## Update 5
+`January 22, 2024`
+
+**Ian Barker** posted a [reply](https://en.delphipraxis.net/topic/10835-fyi-several-embarcadero-services-are-currently-unavailable/?do=findComment&comment=86729) on the Delphi PRAXiS forums that the event is definitely hardware related and involves more than one server.  "it was a cascade of events and *multiple* affected servers and hardware."  
 
 ---
 ## Current status
