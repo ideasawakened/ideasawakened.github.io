@@ -59,7 +59,7 @@ I noticed on StackOverflow today that a question was asked on January 7th: [GetI
 
 I added a new status page to track uptime of Delphi related services without all the old servers listed on Jeroen's page (and also so I would get notified when an outage is detected.)  It's a free service provided by **Uptime Robot**: [https://stats.uptimerobot.com/zJjvZI8vEZ](https://stats.uptimerobot.com/zJjvZI8vEZ)
 
-Embarcadero staff might be getting a little stressed about this outage by now.  Those responsible for server management are in a different group so the front-line Embarcadero staff are bearing the blunt of the communication from customers around the globe while the IT staff apparently eats pizza and watches the NFL playoffs.  The week+ long outage in late 2022 didn't result in major improvements...I wonder if the week+ long outage in early 2024 will?  
+Embarcadero staff might be getting a little stressed about this outage by now.  Those responsible for server management are in a different group so the front-line Embarcadero staff are bearing the blunt of the communication from customers around the globe while the IT staff is insulated.  The week+ long outage in late 2022 didn't result in major improvements...I wonder if the week+ long outage in early 2024 will?  
 - Reference ticket for 2022 [RSP-39878](https://quality.embarcadero.com/browse/RSP-39878)
 - Reference ticket for 2024 [RSP-44128](https://quality.embarcadero.com/browse/RSP-44128)
 
