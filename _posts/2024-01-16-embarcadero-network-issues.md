@@ -2,7 +2,7 @@
 layout: post
 title: "Recent system outages on Embarcadero websites"
 date: 2024-01-16 12:00:00 +0000
-last_modified_at: 2024-01-17 12:00:00 +0000
+last_modified_at: 2024-01-22 23:50:00 +0000
 categories: [Community]
 tags: [Embarcadero, Ian Barker, Jeroen Wiert Pluimers]
 permalink: post/embarcadero-network-issues
@@ -17,7 +17,7 @@ There has been persistent connectivity issues recently to Embarcadero websites i
 [![Update on outage](/assets/blog/Embarcadero/IanBarker-Update.png)](https://t.me/delphidevelopers/35711)
 
 
-For future reference, there is a status page that you can refer to verify the uptime of their web services: [https://stats.uptimerobot.com/3yP3quwNW](https://stats.uptimerobot.com/3yP3quwNW)  This was put online by the veritable **Jeroen Wiert Pluimers** as posted on Twitter back in 2022.  
+For future reference, there is a status page that you can refer to verify the uptime of their web services. This was put online by the veritable **Jeroen Wiert Pluimers** as posted on Twitter back in 2022.  
 
 [![Uptime Monitoring of Embarcadero Sites](/assets/blog/Embarcadero/Jeroen-Twitter-Post.png)](https://twitter.com/jpluimers/status/1495669278519046148)
 
@@ -52,10 +52,22 @@ Up to here, all this is to tell the *Feature Manager* where to look for the inst
 
 Then start the IDE and select *Tools - Manage Features*. There you can select *Help* and install it."
 
+## Update 4
+`January 22, 2024`
+
+I noticed on StackOverflow today that a question was asked on January 7th: [GetIt failed to load](https://stackoverflow.com/questions/77772473/unable-to-load-url-https-getit-12-embarcadero-com-when-trying-to-load-getit-in) so the troubles possibly started about a week before the major outage began.
+
+I added a new status page to track uptime of Delphi related services without all the old servers listed on Jeroen's page (and also so I would get notified when an outage is detected.)  It's a free service provided by **Uptime Robot**: [https://stats.uptimerobot.com/zJjvZI8vEZ](https://stats.uptimerobot.com/zJjvZI8vEZ)
+
+Embarcadero staff might be getting a little stressed about this outage by now.  Those responsible for server management are in a different group so the front-line Embarcadero staff are bearing the blunt of the communication from customers around the globe while the IT staff apparently eats pizza and watches the NFL playoffs.  The week+ long outage in late 2022 didn't result in major improvements...I wonder if the week+ long outage in early 2024 will?  
+- Reference ticket for 2022 [RSP-39878](https://quality.embarcadero.com/browse/RSP-39878)
+- Reference ticket for 2024 [RSP-44128](https://quality.embarcadero.com/browse/RSP-44128)
+
+
 
 ---
 ## Current status
-`January 21, 2024 18:40 UTC`
+`January 22, 2024 23:50 UTC`
 
 Based on a manual check, it appears that the main servers are all online except [DocWiki](https://docwiki.embarcadero.com/) and GetIt.
 
