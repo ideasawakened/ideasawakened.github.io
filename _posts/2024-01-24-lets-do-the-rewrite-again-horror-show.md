@@ -32,7 +32,7 @@ I edited some of the lyrics as a few exactly matched the original.  I also added
 ````
 It's confounding
 Cycles repeating
-Revisions, takes their toll
+Revisions, take their toll
 Now watch closely
 As your zoom meetings linger
 While I've got to use version control
