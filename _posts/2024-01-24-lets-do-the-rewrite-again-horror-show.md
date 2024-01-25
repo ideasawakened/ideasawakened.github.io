@@ -57,7 +57,7 @@ Let's do the rewrite again
 It's so tricky, oh can't you see
 In this cycle, where changes sprawl
 In another iteration, with good intention
-Well-intended, yet it fails
+Well-intended, yet it falls
 
 With a new chief, a fresh belief
 A platform shift, a grand motif
