@@ -11,7 +11,7 @@ image: /assets/blog/Delphi-Programming/Lets-Do-The-Rewrite-Again-Small.jpg
 description: 'AI-generated lyrics to the "Lets Do The Rewrite Again" horror show theme song dedicated to so many Delphi projects.'
 ---
 
-Sometimes you get an idea that you just have to dig into just a little bit deeper... I made an off-handed comment earlier today to **Ian Barker** (as usual) and later thought about it a little more and thought I would spend a bit more time on it tonight.
+Sometimes you get an idea that you just have to dig into just a little bit deeper... I made an off-handed comment earlier today to **Ian Barker** (as usual) and later thought about it more and figured that I would spend a bit more time on it tonight.
 
 The concept involves [The Rocky Horror Picture Show](https://www.conservapedia.com/Rocky_Horror_Picture_Show) which is an American cult-classic musical comedy film.  I remember first seeing it in the mid-1980's at the midnight show at a local cinema.  The movie played as the last show of the weekend as a tradition over the span of quite a few years.  It became a fairly popular local event that teenagers and adults of all ages attended. 
 
@@ -21,7 +21,9 @@ The movie is stupendously stupid, but the music was well produced and quite popu
 
 I said all of that to sing this replacement lyric: "Let's Do The Rewrite Again" as an ode to the sad comedy that often happens to many software applications, especially those built with Delphi. Delphi is so powerful that many applications have been produced over the years that perfectly fills an exact need and new managers arrive and immediately try to rewrite the app using the latest framework-of-the-day.  Quite often, those rewrites fail and the managers are replaced and the cycle is repeated ... to which I sing again: "Let's Do The Rewrite Again" in my best singing voice.
 
-With the popularity of AI today, I was bound to come up with a full set of lyrics to this song.  Before proceeding, I believe you should refresh your memory of, or introduce yourself to, the original "Time Warp" song from the movie.  Here is a video on Vimeo where the music starts about 40 seconds in: [Rocky Horror Picture Show, Time Warp](https://vimeo.com/269407894)  I invite you to sing along to the video using the lyrics below.
+With the popularity of AI today, I was bound to come up with a full set of lyrics to this song.  Before proceeding, I believe you should refresh your memory of, or introduce yourself to, the original "Time Warp" song from the movie.  Here is a video on Vimeo where the music starts about 40 seconds in: [Rocky Horror Picture Show, Time Warp](https://vimeo.com/269407894)  
+
+I invite you to play the video and sing along to the "Rewrite" song using the lyrics below.
 
 I edited some of the lyrics as a few exactly matched the original.  I also added a few lines of my own, but for the most part these are ChatGPT and Bing-AI generated lyrics.
 
