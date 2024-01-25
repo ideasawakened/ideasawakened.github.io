@@ -75,6 +75,19 @@ Embarcadero staff might be getting a little stressed about this outage by now.  
 
 The [DocWiki](https://docwiki.embarcadero.com/) is back online as of 16:40 UTC.  GetIt still seems to be having troubles.
 
+## Update 7
+`January 25, 2024`
+
+The [official blog post](https://blogs.embarcadero.com/we-are-experiencing-a-hardware-outage/) was updated this morning. 
+
+"The Embarcadero IT team is still working on restoring and migrating some of the systems that have been affected by this hardware outage and we’d like to provide you an update:
+
+- The DocWiki site has been restored and should now be working fine, see https://docwiki.embarcadero.com/RADStudio/Athens/en/What%27s_New 
+- We have also added two downloads for Local GetIt packages on my.embarcadero.com, with a small number of GetIt packages, including IDE extension, core components, and FMXLinux. This is the same we did in the past, see https://blogs.embarcadero.com/embarcadero-getit-packages-download-for-rad-studio-11-2/ .
+- The Quality Portal site, which was only partially affected, has been back to regular work for a few days. 
+- The GetIt site (also used for the product installation) is still affected by the outage. The team is not only working on restoring it, but also on migrating it to a new infrastructure.
+- The ISO image for installing RAD Studio 12.0 is available at https://altd.embarcadero.com/download/radstudio/12.0/RADStudio_12_0_4915718.iso "
+
 
 ## Current Status
 GetIt remains offline
