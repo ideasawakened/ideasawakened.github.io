@@ -21,7 +21,7 @@ The movie is stupendously stupid, but the music was well produced and quite popu
 
 I said all of that to sing this replacement lyric: "Let's Do The Rewrite Again" as an ode to the sad comedy that often happens to many software applications, especially those built with Delphi. Delphi is so powerful that many applications have been produced over the years that perfectly fills an exact need and new managers arrive and immediately try to rewrite the app using the latest framework-of-the-day.  Quite often, those rewrites fail and the managers are replaced and the cycle is repeated ... to which I sing again: "Let's Do The Rewrite Again" in my best singing voice.
 
-With the popularity of AI today, I was bound to come up with a full set of lyrics to this song.  Before proceeding, I believe you should refresh your memory of, or introduce yourself to, the original "Time Warp" song from the movie.  Here is a video on Vimeo where the music starts about 40 seconds in: [Rocky Horror Picture Show, Time Warp](https://vimeo.com/269407894)
+With the popularity of AI today, I was bound to come up with a full set of lyrics to this song.  Before proceeding, I believe you should refresh your memory of, or introduce yourself to, the original "Time Warp" song from the movie.  Here is a video on Vimeo where the music starts about 40 seconds in: [Rocky Horror Picture Show, Time Warp](https://vimeo.com/269407894)  I invite you to sing along to the video using the lyrics below.
 
 I edited some of the lyrics as a few exactly matched the original.  I also added a few lines of my own, but for the most part these are ChatGPT and Bing-AI generated lyrics.
 
