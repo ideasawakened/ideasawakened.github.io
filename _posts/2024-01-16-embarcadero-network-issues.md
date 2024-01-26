@@ -94,15 +94,43 @@ The [official blog post](https://blogs.embarcadero.com/we-are-experiencing-a-har
 
 DocWiki is down again and Quality Portal is online but with the message
 ````
-Attention: Embarcadero is migrating its customer bug and feature request reporting portal to a new system. This site will remain accessible as a read only repository. We'll shortly provide information on how to access and report bugs in the new portal.
+Attention: Embarcadero is migrating its customer bug and feature request 
+reporting portal to a new system. This site will remain accessible as 
+a read only repository. We'll shortly provide information on how to 
+access and report bugs in the new portal.
 ````
 So it looks like we're getting some new servers online soon!  **Huzzah!**
 
 DocWiki was reported down at `2024-01-26 15:48` UTC
 
 
+## Update 9
+`January 27, 2024`
+A new blog post is available from Embarcadero - [Quality Portal Migration](https://blogs.embarcadero.com/embarcadero-quality-portal-migration/)
 
+Key information:
 
+````
+ The plan is to have a new public bug reporting and feature request
+ portal for RAD Studio using the Atlassian JSM (Jira Service Manager)
+ front end, working in conjunction with the JIRA system used by R&D. 
+ The new portal will continue to serve the purpose of allowing customers 
+ to log issues and make requests, even if it will offer a different 
+ user experience. In addition, it will have the advantage of being 
+ a standard, stable, and fully integrated system.
+
+ For the time being, the existing Quality Portal system will remain 
+ accessible read only. The data on the old system will remain visible, 
+ even after the new portal will be in place.
+
+ This migration has been planned for a few months and the expected 
+ timeline is now. Quality Portal will shortly become read only. 
+ By next week, we’ll have the new portal in place and we’ll have 
+ a new blog post explaining how to use it and providing 
+ additional information.
+````
+
+Also, the DocWiki site is back online earlier this morning (so they seem to be working over the weekend to attack this ongoing problem.)
 
 ---
 
