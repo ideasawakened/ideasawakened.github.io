@@ -106,6 +106,7 @@ DocWiki was reported down at `2024-01-26 15:48` UTC
 
 ## Update 9
 `January 27, 2024`
+
 A new blog post is available from Embarcadero - [Quality Portal Migration](https://blogs.embarcadero.com/embarcadero-quality-portal-migration/)
 
 Key information:
