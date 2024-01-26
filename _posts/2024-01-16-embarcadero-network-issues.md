@@ -89,6 +89,21 @@ The [official blog post](https://blogs.embarcadero.com/we-are-experiencing-a-har
 - The ISO image for installing RAD Studio 12.0 is available at https://altd.embarcadero.com/download/radstudio/12.0/RADStudio_12_0_4915718.iso "
 
 
+## Update 8
+`January 26, 2024`
+
+DocWiki is down again and Quality Portal is online but with the message
+````
+Attention: Embarcadero is migrating its customer bug and feature request reporting portal to a new system. This site will remain accessible as a read only repository. We'll shortly provide information on how to access and report bugs in the new portal.
+````
+So it looks like we're getting some new servers online soon!  **Huzzah!**
+
+DocWiki was reported down at `2024-01-26 15:48` UTC
+
+
+
+
+
 ## Current Status
 GetIt remains offline
 ![GetIt Server Outage](/assets/blog/Embarcadero/GetIt-Outage.png)
