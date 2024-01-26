@@ -104,7 +104,8 @@ DocWiki was reported down at `2024-01-26 15:48` UTC
 
 
 
-## Current Status
+---
+
 GetIt remains offline
 ![GetIt Server Outage](/assets/blog/Embarcadero/GetIt-Outage.png)
 
