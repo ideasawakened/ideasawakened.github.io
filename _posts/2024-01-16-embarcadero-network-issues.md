@@ -135,6 +135,14 @@ Also, the DocWiki site is back online earlier this morning (so they seem to be w
 
 ---
 
+## Update 10
+`January 30, 2024`
+
+Some systems were down for a short while this morning, presumedly being migrated to a new backend.  DocWiki remains online and it feels faster than ever.  (It has the 'new server feel')  However, GetIt remains unusable.
+
+---
+
+
 GetIt remains offline
 ![GetIt Server Outage](/assets/blog/Embarcadero/GetIt-Outage.png)
 
