@@ -76,4 +76,11 @@ In short, you could easily have a release zip installed and running on Windows i
 
 A future blog post will introduce PowerShell scripts for easily backing up and restoring Postgres databases.
 
+
+## Update
+
+If you use Docker or Chocolatey, then you probably don't need this script (unless, you are tired of the fees.)
+If you use WinGet, you might not want to use this script.
+If you want to just dip your toe into the automation pool, then this might a script for you.
+
 ![PostgreSQL with PowerShell logo](/assets/blog/Database/PostgreSQL/PostgreSQL-Powershell.png)
