@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Install PostgreSQL on Windows using the binary release zipfile"
+title: "PowerShell script to install PostgreSQL on Windows using the binary release zipfile"
 date: 2024-02-03 12:00:00 +0000
 last_modified_at: 2024-02-03 12:00:00 +0000
 categories: [Tooling, Database]
