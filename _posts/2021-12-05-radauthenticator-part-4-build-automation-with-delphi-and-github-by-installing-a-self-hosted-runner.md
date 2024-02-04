@@ -4,7 +4,7 @@ title: "RADAuthenticator Part 4 - Build Automation with Delphi and GitHub by Ins
 date: 2021-12-05 12:00:00 +0000
 last_modified_at: 2021-12-05 12:00:00 +0000
 categories: [Tooling, Automation]
-tags: [rad-authenticator, GitHub, Continuous Integration, Microsoft Windows, Undocumented]
+tags: [rad-authenticator, GitHub, Continuous Integration, Microsoft Windows, Undocumented, Automation]
 permalink: post/radauthenticator-part-4-build-automation-with-delphi-and-github-by-installing-a-self-hosted-runner
 published: true
 image: /assets/blog/Continuous-Integration/GitHub-Runners/Delphi-And-GitHub-Self-Hosted-Runner.png

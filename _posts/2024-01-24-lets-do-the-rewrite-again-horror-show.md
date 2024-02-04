@@ -3,7 +3,7 @@ layout: post
 title: "Let's Do The Rewrite Again Theme Song"
 date: 2024-01-24 12:00:00 +0000
 last_modified_at: 2024-01-24 12:00:00 +0000
-categories: [Community]
+categories: [Tooling, AI]
 tags: [Project Management, Delphi, ChatGPT, Ian Barker]
 permalink: post/lets-do-the-rewrite-again-horror-show
 published: true

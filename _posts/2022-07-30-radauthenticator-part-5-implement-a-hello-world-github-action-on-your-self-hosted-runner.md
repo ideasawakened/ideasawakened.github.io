@@ -4,7 +4,7 @@ title: 'RADAuthenticator Part 5 - Implement a "Hello World" GitHub Action on you
 date: 2022-07-30 12:00:00 +0000
 last_modified_at: 2022-07-30 12:00:00 +0000
 categories: [Delphi Programming, Example Code]
-tags: [RAD Programmer, rad-authenticator, GitHub, Continuous Integration]
+tags: [RAD Programmer, rad-authenticator, GitHub, Continuous Integration, Automation]
 permalink: post/radauthenticator-part-5-implement-a-hello-world-github-action-on-your-self-hosted-runner
 published: true
 image: /assets/blog/GitHub/GitHub-Actions/Delphi-GitHub-Actions-Hello-World.png
