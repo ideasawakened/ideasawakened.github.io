@@ -146,9 +146,21 @@ Some systems were down for a short while this morning, presumedly being migrated
 
 DocWiki has been down all morning so they are hopefully doing some server shuffling today.  The optimist side of me hopes to see an announcement later today, or perhaps on Monday.
 
-
-GetIt remains offline
 ![GetIt Server Outage](/assets/blog/Embarcadero/GetIt-Outage.png)
+
+---
+## Update 12
+`February 7, 2024`
+
+Good news, and more good news... [GetIt is now online](https://blogs.embarcadero.com/getit-update-additional-rad-studio-12-getit-packages-are-now-available/)!
+(At least for RAD Studio 12 users.)
+
+- And the patch for RAD Studio 12 is [now available](https://blogs.embarcadero.com/rad-studio-12-athens-patch-1-available/)
+- This patch will be merged with 12.0 to replace the original install with a new 'inline release'
+
+
+
+
 
 
 **Note:** You can edit the layout of the Welcome Page and remove the GetIt panels ("New in GetIt" and "Promoted in GetIt") to prevent the excess load on their servers and the lag on your system during this outage.
