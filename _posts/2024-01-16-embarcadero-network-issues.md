@@ -146,6 +146,9 @@ Some systems were down for a short while this morning, presumedly being migrated
 
 DocWiki has been down all morning so they are hopefully doing some server shuffling today.  The optimist side of me hopes to see an announcement later today, or perhaps on Monday.
 
+
+
+**Note:** You can edit the layout of the Welcome Page and remove the GetIt panels ("New in GetIt" and "Promoted in GetIt") to prevent the excess load on their servers and the lag on your system during this outage.
 ![GetIt Server Outage](/assets/blog/Embarcadero/GetIt-Outage.png)
 
 ---
@@ -161,6 +164,3 @@ Good news, and more good news... [GetIt is now online](https://blogs.embarcadero
 
 
 
-
-
-**Note:** You can edit the layout of the Welcome Page and remove the GetIt panels ("New in GetIt" and "Promoted in GetIt") to prevent the excess load on their servers and the lag on your system during this outage.
