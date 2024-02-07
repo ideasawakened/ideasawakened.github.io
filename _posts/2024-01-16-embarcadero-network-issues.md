@@ -161,6 +161,9 @@ Good news, and more good news... [GetIt is now online](https://blogs.embarcadero
 - And the patch for RAD Studio 12 is [now available](https://blogs.embarcadero.com/rad-studio-12-athens-patch-1-available/)
 - This patch will be merged with 12.0 to replace the original install with a new 'inline release'
 
+The bad news:
+- Quality Portal remains in read-only mode
+- GetIt is only available for 12.0  (Older versions, including Community Edition coming online later)
 
 
 
