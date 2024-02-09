@@ -158,12 +158,20 @@ DocWiki has been down all morning so they are hopefully doing some server shuffl
 Good news, and more good news... [GetIt is now online](https://blogs.embarcadero.com/getit-update-additional-rad-studio-12-getit-packages-are-now-available/)!
 (At least for RAD Studio 12 users.)
 
-- And the patch for RAD Studio 12 is [now available](https://blogs.embarcadero.com/rad-studio-12-athens-patch-1-available/)
+- And the patch for RAD Studio 12 is [now available in GetIt](https://blogs.embarcadero.com/rad-studio-12-athens-patch-1-available/)
 - This patch will be merged with 12.0 to replace the original install with a new 'inline release'
+- The patch will 'soon' be available for manual download in https://my.embarcadero.com 
+- Their hardware outage blog post was updated today to include this note:
+````
+Starting today, the majority of the GetIt add-on packages that were available on 
+the previous system have been restored and made available. There is still 
+ongoing work to provide some missing packages, which we are aiming to
+complete by this week.
+````
 
 The bad news:
-- Quality Portal remains in read-only mode
-- GetIt is only available for 12.0  (Older versions, including Community Edition coming online later)
+- Quality Portal remains in read-only mode  (their [Quality Portal Migration](https://blogs.embarcadero.com/embarcadero-quality-portal-migration/) blog post on January 27th stated `"By next week, we’ll have the new portal in place and we’ll have a new blog post explaining how to use it and providing additional information."`)
 
+- GetIt is only available for 12.0.  Older versions, including Community Edition coming online later (so a new Community Edition user cannot get a version installed until more progress is made.)
 
 
