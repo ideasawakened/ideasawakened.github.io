@@ -175,3 +175,32 @@ The bad news:
 - GetIt is only available for 12.0.  Older versions, including Community Edition coming online later (so a new Community Edition user cannot get a version installed until more progress is made.)
 
 
+## Update 13
+`February 9, 2024`
+
+A [new blog post](https://blogs.embarcadero.com/getit-update-rad-studio-12-getit-online-installation-is-now-available/) from Embarcadero states that a new inline release is available.  The trial installation and regular product installation are now based on this new inline release with version number **29.0.51511.6924**
+
+````
+Customers on the original RTM version 
+of 12.0 (build version 29.0.50491.5718)
+can continue using it, can install 
+Patch 1, and can use GetIt packages:
+
+If they used the online installation, 
+they cannot add new platforms or 
+features to the product. To do so, 
+customers will have to reinstall the 
+product using the online build (6924) 
+or use the offline (ISO) installer 
+for the RTM build (5718).
+
+If they used the offline (ISO) installer,
+this allows adding platforms and features.  
+
+The new build (6924) is functionally 
+equivalent to the RTM build (5718)
+with Patch 1 installed. There is no 
+reason to move from one to the other 
+unless you need to install additional 
+target platforms.
+````
