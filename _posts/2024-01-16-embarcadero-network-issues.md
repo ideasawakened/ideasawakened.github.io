@@ -4,7 +4,7 @@ title: "Recent system outages on Embarcadero websites"
 date: 2024-01-16 12:00:00 +0000
 last_modified_at: 2024-01-22 23:50:00 +0000
 categories: [Community]
-tags: [Embarcadero, Ian Barker, Jeroen Wiert Pluimers]
+tags: [Embarcadero, Ian Barker, Jeroen Wiert Pluimers, Marco Cantu]
 permalink: post/embarcadero-network-issues
 published: true
 image: /assets/blog/Embarcadero/ConnectionFailure-small.png
@@ -211,3 +211,14 @@ target platforms.
 The Community Edition has not been available for new users since this outage began 27 days ago.  Embarcadero has recently updated the download page with the notification `Download temporarily unavailable, we apologize for the inconvenience. If you are a student or teacher and need to download the Community Edition for a scheduled class, please Contact Sales.`
 
 I suppose it is always *better late, than never...* However, I assume that likely means there are a few more days (at least) to go before this outage event is over otherwise they would not have bothered to update this page.
+
+
+## Update 15
+`February 20, 2024`
+
+It seems that as of this afternoon, the `getit-olympus.embarcadero.com` server is back online!  The new status page is proudly announcing:  **All systems operational**
+
+![All Systems Operational](/assets/blog/Embarcadero/All_Systems_Operational.png)
+
+Once confirmed, this means the only item left is the migration of Quality Portal to a new system.  The current system ticket system remains in Read-Only mode.  **Marco Cantu** recently left a comment the [Quality Portal migration blog page](https://blogs.embarcadero.com/embarcadero-quality-portal-migration/) on Feb 16th: **"For critical bug reports, please contact Embarcadero support"**   The target migration completion was as late as February 3rd, so that project is a few weeks behind schedule.
+
