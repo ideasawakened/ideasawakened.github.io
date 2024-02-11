@@ -204,3 +204,10 @@ reason to move from one to the other
 unless you need to install additional 
 target platforms.
 ````
+
+## Update 14
+`February 10, 2024`
+
+The Community Edition has not been available for new users since this outage began 27 days ago.  Embarcadero has recently updated the download page with the notification `Download temporarily unavailable, we apologize for the inconvenience. If you are a student or teacher and need to download the Community Edition for a scheduled class, please Contact Sales.`
+
+I suppose it is always *better late, than never...* However, I assume that likely means there are a few more days (at least) to go before this outage event is over otherwise they would not have bothered to update this page.
