@@ -227,5 +227,5 @@ Once confirmed, this means the only item left is the migration of Quality Portal
 
 Correction to Update 15 - there is one more big item left regarding the server outage and that is the GetIt server for 10.4 which is still offline. If you are still using that release (versions 10.4, 10.4.1, and 10.4.2) then GetIt still fails to load.  (Perhaps it's a good time to upgrade?)  After verifying today with Embarcadero, there is currently no target date for that to be back online.
 
-Quality Portal is still in read-only mode and no further updates on the its replacement has yet been released.
+Quality Portal is still in read-only mode and no further updates on its replacement has yet been released.
 
