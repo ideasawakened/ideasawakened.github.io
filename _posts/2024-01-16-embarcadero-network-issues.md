@@ -229,3 +229,11 @@ Correction to Update 15 - there is one more big item left regarding the server o
 
 Quality Portal is still in read-only mode and no further updates on its replacement has yet been released.
 
+## Update 17
+`March 4, 2024`
+
+I have not been able to logon to Quality Portal for the last two days and I believe I saw a reference from another developer that could not logon on March 1 so it has likely been down for the last three days.  The server status page shows that it is online as the logon page does display but you receive the logon error: `Sorry, an error occurred trying to log you in - please try again.` and you simply cannot access the content.
+
+Quality Portal has been in "Read Only mode" since January 26th and now is simply unusable and no updates on their [Quality Portal Migration blog page](https://blogs.embarcadero.com/embarcadero-quality-portal-migration/) since a comment made by Marco on Feb 16th that suggested accessing Support for any bugs.
+
+Maybe the IT Operations people at Idera (who runs these servers) actually believe the rumor that "Delphi is Dead."  Or maybe they have all their servers busy mining Bitcoin as its price keeps going up...(which is currently at the max of $68,230 which is even more depressing than this server fiasco as I had money in Bitcoin many years ago that I should have left invested.  I cannot help but do the math at the amount of money it would be worth today.)
