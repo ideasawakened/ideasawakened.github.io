@@ -237,3 +237,32 @@ I have not been able to logon to Quality Portal for the last two days and I beli
 Quality Portal has been in "Read Only mode" since January 26th and now is simply unusable and no updates on their [Quality Portal Migration blog page](https://blogs.embarcadero.com/embarcadero-quality-portal-migration/) since a comment made by Marco on Feb 16th that suggested accessing Support for any bugs.
 
 Maybe the IT Operations people at Idera (who runs these servers) actually believe the rumor that "Delphi is Dead."  Or maybe they have all their servers busy mining Bitcoin as its price keeps going up...(which is currently at the max of $68,230 which is even more depressing than this server fiasco as I had money in Bitcoin many years ago that I should have left invested.  I cannot help but do the math at the amount of money it would be worth today.)
+
+## Update 18
+`March 11, 2024`
+
+Finally, the Quality Portal site now allows you to logon again.  Unfortunately the site remains in read-only mode.
+
+A comment from Ian Barker from March 7th on their Quality Portal blog post... 
+````
+The historical information on the old QP has
+been carefully curated and preserved internally.
+It will definitely not be lost. It was necessary 
+for us to carry out substantial reformation on 
+the Quality Portal, partly due to some changes
+from Atlassian with regard to Jira (the issue 
+tracking software behind the scenes of QP) and 
+because it had been long overdue. The old 
+system had several difficulties for a number 
+of reasons and it was necessary to completely 
+rework how issues could be reported and how 
+they would be tracked and synced on our 
+internal systems. Ultimately it should be a 
+superior solution. It’s taken longer than we 
+expected to get it launched but we are 
+almost ready with it now.
+````
+
+As of today, GetIt remains unusable for RAD Studio 10.4. The server downtime event has now reached 58 days.  Perhaps this would be a good time to review [The 3-2-1 Backup Strategy](https://www.backblaze.com/blog/the-3-2-1-backup-strategy/)
+
+tl;dr:  3-2-1 means having at least **three copies** of your data, two local (on-site) but on different media (read: devices), and at least one copy off-site.
