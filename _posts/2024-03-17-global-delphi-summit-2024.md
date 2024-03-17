@@ -4,7 +4,7 @@ title: "Global Delphi Summit 2024 in Amsterdam"
 date: 2024-03-17 01:00:00 +0000
 last_modified_at: 2024-03-17 01:00:00 +0000
 categories: [Community]
-tags: [Delphi Summit, Convention, GDK Software, Barnsten, Embarcadero, Ian Barker, Marco Cantu, Marco Geuze, Jim McKeeth, Kees de Kraker, Olaf Monien, Steffen Nyeland, Bob Swart, Richard Hatherhall, Primož Gabrijelčič, Stefan Glienke, Christoph Schneider, Conrad Vermeulen, Frank Lauter, Fabrizio Bitti, Serge Pilko, Carlos Agnes, Andrea Raimondi, Cary Jensen, Patrick Quist]
+tags: [Delphi Summit, Convention, GDK Software, Barnsten, Embarcadero, Ian Barker, Marco Cantu, Marco Geuze, Jim McKeeth, Kees de Kraker, Olaf Monien, Steffen Nyeland, Bob Swart, Richard Hatherhall, Primož Gabrijelčič, Stefan Glienke, Christoph Schneider, Conrad Vermeulen, Frank Lauter, Fabrizio Bitti, Serge Pilko, Carlos Agnes, Andrea Raimondi, Cary Jensen, Patrick Quist, Eivind Bakkestuen, NexusDB]
 permalink: post/global-delphi-summit-2024
 published: true
 image: /assets/blog/Delphi-Conventions/Delphi-Summit-2024-Logo.png
@@ -74,3 +74,8 @@ If you are like me and you cannot be one of the lucky developers that can  be th
 There is currently an **"Early Bird"** 50 Euro discount off the price of live streaming (and also a discount for in-person tickets.)  As you can see below, I have my ticket ordered - **buy yours today** and support your favorite development tool - **[DELPHI](https://www.embarcadero.com/products/delphi)**!
 
 ![Live Streaming Invoice](/assets/blog/Delphi-Conventions/global-delphi-summit-streaming-invoice.png)
+
+
+## Update
+### Additional sponsors
+As stated on the [Delphi Developers Telegram Server](https://t.me/delphidevelopers/39068) by `Eivind Bakkestuen`, [NexusDB](https://www.nexusdb.com/) will be present at the conference as a sponsor.
