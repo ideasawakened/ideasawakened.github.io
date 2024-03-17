@@ -4,7 +4,7 @@ title: "DelphiCon 2021 coming soon! Free 3-Day online conference for Delphi deve
 date: 2021-11-09 12:00:00 +0000
 last_modified_at: 2021-11-09 12:00:00 +0000
 categories: [Delphi Programming, Community]
-tags: [DelphiCon, Marco Cantu, Alister Christie, Nick Hodges, Miguel Angel Moreno, Erik van Bilsen, Ray Konopka, Bruno Fierens, Ian Barker, Dion Carlos Mai, Olaf Monien, Holger Flick, Michalis Kamburelis, David Cornelius, Sileide Campos, Victory Fernandes, David Intersimone, Boian Mitov, Gustavo Mena Barreto, Rafael Pereira, David Millington, Alexander Syrykh, Cary Jensen, Jens Fudge, Olaf Monien, Jim McKeeth, Stefan van As, Maico Dal Ri, Victory Fernandes, Tomas Slapka, Gleb Sitikov, Patrick Prémartin, Ziad Allaghi, Marco Geuze, Artem Razin, Jackson Gomes]
+tags: [DelphiCon, Convention, Marco Cantu, Alister Christie, Nick Hodges, Miguel Angel Moreno, Erik van Bilsen, Ray Konopka, Bruno Fierens, Ian Barker, Dion Carlos Mai, Olaf Monien, Holger Flick, Michalis Kamburelis, David Cornelius, Sileide Campos, Victory Fernandes, David Intersimone, Boian Mitov, Gustavo Mena Barreto, Rafael Pereira, David Millington, Alexander Syrykh, Cary Jensen, Jens Fudge, Olaf Monien, Jim McKeeth, Stefan van As, Maico Dal Ri, Victory Fernandes, Tomas Slapka, Gleb Sitikov, Patrick Prémartin, Ziad Allaghi, Marco Geuze, Artem Razin, Jackson Gomes]
 permalink: post/delphicon-2021-coming-soon-free-3-day-online-conference-for-delphi-developers-around-the-world
 published: true
 image: /assets/blog/DelphiCon/2021/Delphicon-square.png
