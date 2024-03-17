@@ -266,3 +266,59 @@ almost ready with it now.
 As of today, GetIt remains unusable for RAD Studio 10.4. The server downtime event has now reached 58 days.  Perhaps this would be a good time to review [The 3-2-1 Backup Strategy](https://www.backblaze.com/blog/the-3-2-1-backup-strategy/)
 
 tl;dr:  3-2-1 means having at least **three copies** of your data, two local (on-site) but on different media (read: devices), and at least one copy off-site.
+
+## Update 19
+`March 18, 2024`
+
+Another comment left by `Ian Barker` on the blog post about the Quality Portal Migration in response to "WE aren't getting much information comment by a user". 
+
+TL;DR: A new system is being tested, no target date established for public release.
+
+
+````
+I’m not sure I entirely understand your question? 
+“We” means me, you, and others? Or others and you?
+
+Let me take another run at explaining…
+
+We (Embarcadero) are currently testing the new portal
+among a small group of people both internal and external. 
+There are some things which are not right with it and 
+we (Embarcadero) are getting those addressed by the 
+specialist team who are working on that portal. As I 
+mentioned, it took a lot longer to get to that stage 
+than we (Embarcadero) had believed. But it has to be 
+right due to the importance of the key elements of 
+the chain of things which goes on when an issue or
+suggested new feature is made via QP.
+
+We (Embarcadero) believe we’ll be ready to roll this 
+out soon – and by that, I mean as soon as we 
+possibly can. We (actually, in this case it will be 
+me) will be producing a blog post introducing the 
+new QP and pointing out the new functionality and 
+so on.
+
+At scale, there are a lot of moving parts to QP even 
+though on the face of it you’d be forgiven for 
+thinking “well how hard can it be”. I know. You want 
+it quicker. We (Embarcadero) want it quick too. But 
+it also has to be right. If we (Embarcadero) make 
+missteps, and we (Embarcadero) are clearly not 
+magical beasts at avoiding computer-related drama, 
+then if it’s in such a fast-moving, critical thing 
+such as QP, it can quickly snowball into something 
+even more awfulthan it being annoyingly unready 
+to launch.
+
+We (Embarcadero) want to get you QP as quickly as 
+we can. I think you want that too. You also want 
+a date and time, sort of, and that would be nice, 
+but the truth is, right now, we can’t be more 
+accurate than “very soon, we thought it would be 
+ready by now, but it isn’t”.
+````
+
+Also note that GetIt is still unusable for RAD Studio 10.4 (down for 65 days and counting with no announcement of a replacement server being available.)
+
+
