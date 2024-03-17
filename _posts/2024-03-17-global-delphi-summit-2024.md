@@ -11,7 +11,7 @@ image: /assets/blog/Delphi-Conventions/Delphi-Summit-2024-Logo.png
 description: 'Links along with list of speakers and schedule for the Delphi Summit 2024 in Amsterdam'
 ---
 
-# Delphi Summit
+# Delphi Summit - June 2024.
 
 Have you heard?  There is a great convention dedicated to Delphi Developers coming this June to Amsterdam!  The 2024 Global Delphi Summit is sponsored by [GDK Software](https://gdksoftware.com/), [Embarcadero](https://www.embarcadero.com/), and [Barnsten](https://www.barnsten.com/) and features a great list of speakers and informative sessions.
 
