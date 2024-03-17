@@ -71,6 +71,6 @@ If you are like me and you cannot be one of the lucky developers that can  be th
 
 ## Discount Available!
 
-There is currently an **"Early Bird"** 50 Euro discount off the price of live streaming (and also a discount for in-person tickets.)  As you can see below, I have my tickets ordered - **buy yours today** and support your favorite development tool - **[DELPHI](https://www.embarcadero.com/products/delphi)**!
+There is currently an **"Early Bird"** 50 Euro discount off the price of live streaming (and also a discount for in-person tickets.)  As you can see below, I have my ticket ordered - **buy yours today** and support your favorite development tool - **[DELPHI](https://www.embarcadero.com/products/delphi)**!
 
 ![Live Streaming Invoice](/assets/blog/Delphi-Conventions/global-delphi-summit-streaming-invoice.png)
