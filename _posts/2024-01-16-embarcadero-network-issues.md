@@ -2,7 +2,7 @@
 layout: post
 title: "Recent system outages on Embarcadero websites"
 date: 2024-01-16 12:00:00 +0000
-last_modified_at: 2024-01-22 23:50:00 +0000
+last_modified_at: 2024-04-11 21:30:00 +0000
 categories: [Community]
 tags: [Embarcadero, Ian Barker, Jeroen Wiert Pluimers, Marco Cantu]
 permalink: post/embarcadero-network-issues
@@ -322,3 +322,26 @@ ready by now, but it isn’t”.
 Also note that GetIt is still unusable for RAD Studio 10.4 (down for 65 days and counting with no announcement of a replacement server being available.)
 
 
+## Update 20
+`April 11, 2024`
+
+After a beta testing period to get the main implementation issues worked out, the Quality Portal replacement site for customers went live on April 5th.  Embarcadero posted a blog post with some details: [The New Quality Portal Is Live – Here Are The Details](https://blogs.embarcadero.com/the-new-quality-portal-is-live-here-are-the-details/)
+
+Here is the link to use to access the new QP:  https://embt.atlassian.net/servicedesk/customer/portals
+
+Here is their current FAQ:
+- If the old QP is now read-only, will I still be able to comment on the reports in there?
+  - Yes. You will not be able to create new issues though. New issues and requests need to be raised in the New Embarcadero Quality Portal (QP).
+- Will I be able to see the old QP issues on the new Quality Portal?
+  - No. The systems are synchronized internally and we refer to both but there is no current way of surfacing a link between the old and new systems.
+- I liked the old QP, why did you change?
+  - Atlassian, our service provider for the issue tracking software, deprecated and retired some of their systems. This new portal is based on the latest offering they have for this kind of customer ticketing system.
+- Is the new QP running on the old servers? How reliable is it going to be?
+  - This new Quality Portal (QP) uses cloud-based hosting from Atlassian. It should be robust and early usage seems to indicate it’s pretty fast too.
+
+Some QP notes:
+- Some people are reporting that they do not see any issues after signing up. I have seen some comments that they are working on this issue and some have also said that if you add a new issue, then you are automatically added to the proper group to see all the issues.  (Please don't create a junk issue just to get quicker access... create an account and wait a day if needed.)
+- With two different public systems and a third internal system in use by Embarcadero staff, ticket duplication is going to be an ongoing issue. 
+
+
+ And after 88 days of server downtime with no estimate on restoration, GetIt is still unusable for RAD Studio 10.4. As with the idea of getting old QP issues into the new QP, I assume this is a lost cause at this point.
