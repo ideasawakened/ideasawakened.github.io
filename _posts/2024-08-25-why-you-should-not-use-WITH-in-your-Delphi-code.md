@@ -2,7 +2,7 @@
 layout: post
 title: "Why you should not use WITH in your Delphi code (but there is this one cool hack...)"
 date: 2024-08-25 20:00:00 +0000
-last_modified_at: 2024-08-25 20:00:00 +0000
+last_modified_at: 2024-08-26 14:00:00 +0000
 categories: [Delphi Programming, Best Practices]
 tags: [Ali Dehbansiahkarbon, Alister Christie, Andreas Rejbrand, Chris Miller, Craig Stuntz, Dalija Prasnikar, David Corneliums, David Dombrowsky, David Heffernan, Fabricio Araujo, Glenn Dufke, Hallvard Vassbotn, Malcome Groves, Marc Durdin, Marco Cantu, Martin James, Mason Wheeler, Nick Hodges, Olaf Monien, Robert Gilland, Stefan Glienke, Thomas Mueller, Toon Krijthe]
 permalink: post/why-you-should-not-use-WITH-in-your-Delphi-code
@@ -569,3 +569,12 @@ There is zero chance of **with** being removed from the language.  I do not thin
 
 ## Summary
 Some examples were provided to show some obvious and not-so-obvious reasons to avoid **with** statements, multiple quotes were provided from various developers offering a wide consensus against using **with**, and even some poetry... if you still insist on using **with** in your code, then we need to talk about something else and I will simply wish you luck on discovering your next with-related bug before your customers do!
+
+
+## Updates
+- Some comments are coming in on various sites about this article.  A response for the purists who believe Niklaus Wirth implemented **with** statements and it is somehow disrepectful to suggest that Pascal has shortcomings... think about this statement directly from Wirth in "Recollections about the development of Pascal":
+>I have been encouraged to state my assessment of the merits and weaknesses of Pascal, of the mistaken decisions in its design, and of its prospects and place in the future. I prefer not to do so explicitly, and instead to refer the reader to my own successive designs, the languages Modula-2 and Oberon. Had I named them Pascal-2 and Pascal-3 instead, the questions might not have been asked, because the evolutionary line of these languages would have been evident.
+
+Now look at Pascal-3 (Oberon) and what did he do?  He removed the WITH, LOOP, and EXIT statements.  Which Niklaus Wirth will you argue with?
+
+
