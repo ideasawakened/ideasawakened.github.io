@@ -564,7 +564,7 @@ And hidden bugs will meet their end.
 
 
 ## The Future Of With In Delphi
-There is zero chance of **with** being removed from the language.  I do not think we should waste any time discussing that option.  However, there can be a new compiler warning introduced for code that leverages **with** statements.  This would be my preference.  If you agree, then I ask you to add your support by commenting on this Quality Portal ticket requesting a new compiler warning for **with** statement usage:  [RSS-1634: Add a compiler warning for WITH statement usage](https://embt.atlassian.net/servicedesk/customer/portal/1/RSS-1634)
+There is zero chance of **with** being removed from the language.  I do not think we should waste any time discussing that option.  However, there can be a new compiler warning introduced for code that leverages **with** statements.  This would be my preference.  If you agree, then I ask you to add your support by commenting on this Quality Portal ticket requesting a new compiler warning for **with** statement usage:  [RSS-1634: Add a compiler warning for WITH statement usage](https://embt.atlassian.net/servicedesk/customer/portal/1/RSS-1634)  Even a simple "+1" comment would be appreciated.
 
 
 ## Summary
