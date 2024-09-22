@@ -2,7 +2,7 @@
 layout: post
 title: "Simple Code Profiling In Delphi"
 date: 2022-07-30 12:00:00 +0000
-last_modified_at: 2022-07-30 12:00:00 +0000
+last_modified_at: 2024-09-21 12:00:00 +0000
 categories: [Delphi Programming, Example Code]
 tags: [iaLib, AQtimePro, ProDelphi, Helmuth Adolph, GPProfile, ASMProfiler, Sampling Profiler, Eric Grange, Nexus Quality Suite]
 permalink: post/simple-code-profiling-in-delphi
@@ -27,7 +27,7 @@ end;
 
 This type of code is quick and easy to implement and it basically works for testing the occasional block of code. Newer versions of Delphi introduced [**TStopWatch**](https://docwiki.embarcadero.com/Libraries/en/System.Diagnostics.TStopwatch) for high-performance timings that is typically now used instead of the 'Now' type code above. Alternatively, you can rely on a few full-blown code profiler tools for Delphi to examine your entire project. The most common Delphi profilers currently are (please let me know if I missed your favorite):
 
--   [**AQtimePro by SmartBear**](https://smartbear.com/product/aqtime-pro/overview/). This is the top of the line profiling tool available for Delphi and is priced accordingly.
+-   [**AQtimePro by SmartBear**](https://smartbear.com/product/aqtime-pro/overview/). This is the top of the line profiling tool available for Delphi and is priced accordingly.  NOTE: This product appears to be unsupported in 2024.
     
 -   [**ProDelphi by Helmuth Adolph**](http://www.prodelphi.de/). This is another commercial profiling tool that has been around for many years (and looks like it.) Profilers aren't meant to look pretty, but this tool seems to work rather well.
     
@@ -38,6 +38,8 @@ This type of code is quick and easy to implement and it basically works for test
 -   [**Sampling Profiler by Eric Grange**](https://www.delphitools.info/samplingprofiler/). A powerful and free sampling profiler which might be the most popular Delphi profiler in use today.
     
 -   [**Nexus Quality Suite from NexusDB**](https://www.nexusdb.com/support/index.php?q=node/27156). This is a commercial product which is the retooling of the old Sleuth QA Suite from TurboPower.
+
+- [**Intel VTune with map2pdb**](https://en.delphipraxis.net/topic/4853-map2pdb-profiling-with-vtune/)  **Anders Melander** created an open source tool to help you work with the powerful VTune application from Intel.  See the Delphi-Praxis thread for more info.
     
 
 Besides the choice of commercial vs. open source, the main choice of which profiler to use boils down to using a "sampling" or "instrumenting" profiler, and you should visit the link above for Eric Grange's website for a nice breakdown between the two.
