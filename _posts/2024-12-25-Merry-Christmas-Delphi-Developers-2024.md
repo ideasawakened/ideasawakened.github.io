@@ -8,7 +8,7 @@ tags: [Delphi]
 permalink: post/Merry-Christmas-Delphi-Developers-2024
 published: true
 image: /assets/blog/Delphi-Programming/Christmas_spartan_thumbnail_250x250.png
-description: 'The blog post provide links to a few profilers available to Delphi and demonstrates a new simple to use open source profiling class.'
+description: 'The blog post provide a Christmas themed wallpaper and lyrics to the "O Delphi Night" song created by AI.'
 ---
 🎄🎅 Merry Christmas, Delphi Warriors! 🎅🎄
 
