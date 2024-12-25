@@ -581,6 +581,7 @@ Now look at Pascal-3 (Oberon) and what did he do?  He removed the WITH, LOOP, an
 ### Some Comments From Linked In
 
 - **Tilen Kordis** [posted](https://www.linkedin.com/feed/update/urn:li:activity:7234866143469981697/) 
+
 ````
 What is one of Delphi statements that makes perfect sense the first time you use it and absolutely NO SENSE the first time you need to debug it?  
 
