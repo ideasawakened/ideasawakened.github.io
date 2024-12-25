@@ -578,3 +578,60 @@ Some examples were provided to show some obvious and not-so-obvious reasons to a
 Now look at Pascal-3 (Oberon) and what did he do?  He removed the WITH, LOOP, and EXIT statements.  Which Niklaus Wirth will you argue with?
 
 
+### Some Comments From Linked In
+
+- **Tilen Kordis** [posted](https://www.linkedin.com/feed/update/urn:li:activity:7234866143469981697/) 
+````
+What is one of Delphi statements that makes perfect sense the first time you use it and absolutely NO SENSE the first time you need to debug it?  
+
+WITH Statement!
+
+with LongNamedDelphiVisualControl do
+begin
+ Top := 1;
+ Left := 1;
+ Caption := 'In Top Left corner.';
+end;
+
+The Delphi documentation is full of examples using WITH and as a new Delphi developer it makes sense to use it, it shortens some code examples and makes some code easier to read. 
+
+Well, that ends the first time you need to debug or refactor it. Then you quickly notice the shortened and readable code could be full of mysteries and it makes sense to try to avoid it in your code. 
+
+The headache that comes with using WITH is not worth it!
+````
+
+** Michalis Kamburelis** responded to Tilen's post:
+> We have a section in "Coding Conventions" of Castle Game Engine that explicitly says "Do not use with" for this reason:) https://castle-engine.io/coding_conventions#no_with
+
+From his documentation:
+> Never use with keyword. Using with makes the code very difficult to read, as some of the symbols inside the "with A do begin …​ end" clause are bound to A, and some are not, and it’s completely invisible to the human reader which symbols are which. And it’s impossible to determine it, without intimately knowing the complete API of class/record A.
+
+** Eugene Kasnerik** [responded](https://www.linkedin.com/feed/update/urn:li:groupPost:1290947-7233568690158329856?commentUrn=urn%3Ali%3Acomment%3A%28groupPost%3A1290947-7233568690158329856%2C7233708262624313344%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287233708262624313344%2Curn%3Ali%3AgroupPost%3A1290947-7233568690158329856%29) to one of my posts:
+> I thought this point was obvious for decades. But after reading comments I'm not sure about the planet :) 
+
+** Gordan Paunovic** [responded](https://www.linkedin.com/feed/update/urn:li:groupPost:101829-7233568711738015746?commentUrn=urn%3Ali%3Acomment%3A%28groupPost%3A101829-7233568711738015746%2C7233755585156907011%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287233755585156907011%2Curn%3Ali%3AgroupPost%3A101829-7233568711738015746%29)
+> One of the few things which should be removed from Delphi is WITH. Thanks for sharing.
+
+
+### Some Comments From Facebook
+
+**Brian Muegge**:
+> No matter how many times you warn them, there's always somebody who has to touch the stove to see if it's still hot.
+
+**Phillip Woon**:
+> You're preaching to the choir
+
+**Bruce McGee**:
+> It will never not trigger me
+
+And Bruce's response to someone that defended using **with**
+> I've made a good living fixing code written by people who say things like this.
+
+**Marco Eberhardt**:
+> if you heavy use WITH then you will get unexpected errors in your code its just a matter if time
+
+**Rick Wheeler**:
+> you can use inline “var” declaration to solve this issue. Get rid of nasty with statements.
+
+**Sergio González**:
+> No need to read any blog... I stopped using 'with' after struggling with a bug for days, only to find out it was caused by that kind of evil thing! I don't remember now what the bug was, but I do remember swearing by my life never to use 'with' again!
