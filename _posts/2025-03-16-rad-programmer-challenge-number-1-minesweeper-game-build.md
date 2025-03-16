@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "RAD Programmer Challenge #1: Build a MineSweeper game in RAD Studio with a chance to win $500"
-date: 2025-03-14 20:00:00 +0000
-last_modified_at: 2025-03-14 20:00:00 +0000
+date: 2025-03-16 20:00:00 +0000
+last_modified_at: 2025-03-16 20:00:00 +0000
 categories: [Delphi Programming, Community]
 tags: [RAD Programmer Challenge, Castle Game Engine, Apus Game Engine]
 permalink: post/rad-programmer-challenge-number-1-minesweeper-game-build
