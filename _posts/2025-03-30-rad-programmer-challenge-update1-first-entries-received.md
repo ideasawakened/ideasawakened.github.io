@@ -22,7 +22,7 @@ As a reminder from the [initial challenge announcement](https://ideasawakened.co
 ![davidreed1666 screenshot](/assets/blog/radprogrammer/minesweeper-challenge/davidreed1666-screenshot.png)
 
 ## ForgotMyCode
-- The second entry is from GitHub user [ForgotMyCode](https://github.com/ForgotMyCode)  Their [entry post](https://github.com/orgs/radprogrammer/discussions/5) was on March 25 and you can find the Minesweeper GitHub Repository [here.](https://github.com/AnthonySWest/sweep-them-mines)  There has been 4 stars given for this repository so far, tied for first place.  
+- The second entry is from GitHub user [ForgotMyCode](https://github.com/ForgotMyCode)  Their [entry post](https://github.com/orgs/radprogrammer/discussions/5) was on March 25 and you can find the Minesweeper GitHub Repository [here.](https://github.com/ForgotMyCode/Minesweeper)  There has been 4 stars given for this repository so far, tied for first place.  
 
 ![ForgotMyCode screenshot](/assets/blog/radprogrammer/minesweeper-challenge/ForgotMyCode-screenshot.png)
 
@@ -34,7 +34,7 @@ As a reminder from the [initial challenge announcement](https://ideasawakened.co
 
 
 ## AnthonySWest
-- A pending entry is from GitHub user [AnthonySWest](https://github.com/AnthonySWest) which currently does not currently have an entry post, but you can find the Minesweeper GitHub Repository [here.](https://github.com/ForgotMyCode/Minesweeper)  There has been only 1 star given for this repository so far.  This entry is unique as it's developed in C++ rather than Delphi.  He also has a `.githooks` setup to automatically apply formatting to the source which is a plus.
+- A pending entry is from GitHub user [AnthonySWest](https://github.com/AnthonySWest) which currently does not currently have an entry post, but you can find the Minesweeper GitHub Repository [here.](https://github.com/AnthonySWest/sweep-them-mines)  There has been only 1 star given for this repository so far.  This entry is unique as it's developed in C++ rather than Delphi.  He also has a `.githooks` setup to automatically apply formatting to the source which is a plus.
 
 ## vhanla
 - Another pending entry is from GitHub user [vhanla](https://github.com/vhanla) which currently does not currently have an entry post, but you can find the Minesweeper GitHub Repository [here.](https://github.com/vhanla/MineSweeper)  There has been 7 stars given for this repository so far so he would be in the lead for stars if he officially enters.  
