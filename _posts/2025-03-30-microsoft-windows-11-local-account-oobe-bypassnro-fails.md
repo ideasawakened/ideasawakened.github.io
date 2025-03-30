@@ -17,7 +17,7 @@ Microsoft is taking one more step to force you to use an internet-connected Micr
 Quote from the [Windows Insider Blog Post](https://blogs.windows.com/windows-insider/2025/03/28/announcing-windows-11-insider-preview-build-26200-5516-dev-channel/):
 >We’re removing the bypassnro.cmd script from the build to enhance security and user experience of Windows 11. This change ensures that all users exit setup with internet connectivity and a Microsoft Account.  
 
-This change is currently in the Beta preview builds so it may be a while before you need to use this new feature
+This change is currently in the Beta preview builds so it may be a while before you need to use this new workaround.
 
 # What used to work
 Many used invalid or blocked email addresses for Microsoft Accounts during setup (like `no@thankyou.com`) but Microsoft blocked using those fake accounts last year.  You could also simply unplug your network cable, or prevent an internet connection by other means (like `taskkill /f /IM oobenetworkconnectionflow.exe`) and a local account setup was an option.
@@ -65,7 +65,7 @@ Since it is undocumented, there are no guarantees that it will remain as a viabl
 
 ---
 
-If you are running the Pro version, you can setup a local Active Directory account, but that is probably the last choice for most general users.  If all else fails, sign in with a temporary account you are never going to use, then create a local admin user, logon to that local user and then delete the temporary Microsoft Account.  
+If you are running the Pro version, you can setup a local Active Directory account, but that is probably the last choice for most general users.  If all else fails, sign in with a temporary Microsoft Account, then create a local admin user, logon to that local user and then delete the temporary Microsoft Account based user.
 
 
 
