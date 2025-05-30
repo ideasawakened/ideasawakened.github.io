@@ -116,4 +116,4 @@ Needless to say, we definitely need more Delphi developers to complete the surve
 
 Based on previous years performance, I will estimate that this blog post will get (at least) twice as many views as the total number of respondents selecting Delphi as their dev tool of choice in the survey - which makes no sense!   So please stop what are you doing and [take the survey now](https://stackoverflow.az1.qualtrics.com/jfe/form/SV_1MNG2CYTY2AzkAm) and pick Delphi when prompted.  It's really quick to do and it can help increase visibility of the language. Don't rely on the next person to do it. 
 
-When you are done, share the link with everyone you know and ask them to do the same.  Let's change some minds and achieve a much better result on the 2025 Stack Overflow Developer Survey results!
+When you are done, share the link with everyone you know and ask them to do the same.  Let's shift perspectives and drive a significantly better result in the 2025 Stack Overflow Developer Survey!
