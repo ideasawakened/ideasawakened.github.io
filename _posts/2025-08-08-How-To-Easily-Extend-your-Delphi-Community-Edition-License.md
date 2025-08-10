@@ -2,7 +2,7 @@
 layout: post
 title: "How to easily extend your Delphi Community Edition License"
 date: 2025-08-08 19:00:00 +0000
-last_modified_at: 2025-08-08 19:00:00 +0000
+last_modified_at: 2025-08-10 18:20:00 +0000
 categories: [Delphi Programming, Community]
 tags: [Community Edition, Licensing, Antony Danby]
 permalink: post/How-To-Easily-Extend-your-Delphi-Community-Edition-License
@@ -21,6 +21,7 @@ Today, it has become easier to renew your Community Edition license.  Just use e
 
 Note from the license agreement: `To the extent you want to continue using the Community Edition after the expiration or termination of your Community Edition Term, you must re-install the latest version of the Community Edition and agree with the terms and conditions of the Agreement in force at that time.`  So, technically, you should download and re-install the Community Edition and your license will be extended, as long as you agree to the latest agreement during installation.  But, according to **Antony Danby** on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:groupPost:101829-7359667205422149632?commentUrn=urn%3Ali%3Acomment%3A%28groupPost%3A101829-7359667205422149632%2C7360196510338162688%29&replyUrn=urn%3Ali%3Acomment%3A%28groupPost%3A101829-7359667205422149632%2C7360243157071978496%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287360196510338162688%2Curn%3Ali%3AgroupPost%3A101829-7359667205422149632%29&dashReplyUrn=urn%3Ali%3Afsd_comment%3A%287360243157071978496%2Curn%3Ali%3AgroupPost%3A101829-7359667205422149632%29), all he did was to use License Manager and submitted the new license code.
 
+Reddit user **dstrenz** [replied](https://www.reddit.com/r/delphi/comments/1ml5l9t/comment/n7r09yv/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button): `So, to make a long story short, after several emails with a sales rep, he sent me a link to the same download page that had previously said it was not renewable. I clicked the link anyhow and it sent me an email with the serial number! What a relief! I thought that the sales rep somehow enabled that at his end, but, after seeing your post, it looks like they did something globally to fix the problem.`
 
 If you don't have your free license yet, you can use the same link above to register for a new license.
 
