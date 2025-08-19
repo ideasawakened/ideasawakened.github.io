@@ -11,7 +11,7 @@ image: /assets/blog/Embarcadero/JobHub/JobHub_Small.png
 description: 'Embarcadero Job Hub connects Delphi developers and employers, offering a central place to find jobs, post opportunities, and grow the Delphi community.'
 ---
 
-There’s a new resource available for the Delphi community from Embarcadero – the [Job Hub](https://www.embarcadero.com/resources/development-jobs) offers features for Employers and Developers.
+There's a new resource available for the Delphi community from Embarcadero - the [Job Hub](https://www.embarcadero.com/resources/development-jobs) offers features for Employers and Developers.
 
 
 ## Employers - Find Delphi Developers
@@ -38,6 +38,6 @@ If you are a Delphi developer seeking contract or full time work, please post yo
 
 ![Embarcadero Job Hub](/assets/blog/Embarcadero/JobHub/NewJobHub.png)
 
-The Embarcadero Job Hub is more than just a listing service — it’s a place where the Delphi Community can come together to grow stronger. Employers gain direct access to experienced developers who understand Embarcadero’s tools, while developers discover new opportunities to apply their skills in meaningful ways.
+The Embarcadero Job Hub is more than just a listing service - it's a place where the Delphi Community can come together to grow stronger. Employers gain direct access to experienced developers who understand Embarcadero's tools, while developers discover new opportunities to apply their skills in meaningful ways.
 
-Whether you’re looking to hire top Delphi talent or searching for your next career move, the Job Hub is designed to make those connections faster and easier. Take a few minutes today to post an open position or upload your resume, and help build a thriving ecosystem of opportunity around Embarcadero products.
+Whether you're looking to hire top Delphi talent or searching for your next career move, the Job Hub is designed to make those connections faster and easier. Take a few minutes today to post an open position or upload your resume, and help build a thriving ecosystem of opportunity around Embarcadero products.
