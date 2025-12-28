@@ -8,7 +8,7 @@ tags: [Community Edition, Licensing, Antony Danby]
 permalink: post/How-To-Easily-Extend-your-Delphi-Community-Edition-License
 published: true
 image: /assets/blog/Delphi-Programming/Community_Edition/CommunityEdition_EasierToRenew.png
-description: 'The first RAD Programmer Challenge has a winner - announced today!'
+description: 'It has recently become easier to renew your Community Edition license - see how.'
 ---
 
 The free Community Edition license for Delphi was first [introduced](https://blogs.embarcadero.com/introducing-delphi-and-c-builder-community-edition/) in 2018 for Delphi and C++ Builder 10.2.3.  It has been successful for Embarcadero, but it has caused a few concerns around licensing over the years.  One issue involves the simple fact that the license is only good for one year and they do not release a new Community Edition every 12 months and it has been a little confusing on how to get your Community Edition license renewed.
