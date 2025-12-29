@@ -219,7 +219,7 @@ If Embarcadero wishes to clarify or update any of these points, such clarificati
 
 The goal of this post is to help provide clarity and not criticism.  As I do not work for Embarcadero and am not an attorney, this is my _personal and non-binding interpretation_.
 
-## Update
+## Update 1
 **Iam Barker** responded to the same Facebook post.  Below is his full response:
 
 
@@ -259,4 +259,7 @@ The rule of thumb with CE is - if you're not sure, get in touch. It's not a tric
 
 Remember, any questions, simply email Embarcadero: <a href="mailto:compliance@embarcadero.com">compliance@embarcadero.com</a>
 
+
+## Update 2 
+I took Ian Barker's advice and sent an email to the compliance team at Embarcadero on December 29, 2025 and questioned whether or not his example is valid.  They have not yet provided a response.  If they do respond, I will update the post again.
 
