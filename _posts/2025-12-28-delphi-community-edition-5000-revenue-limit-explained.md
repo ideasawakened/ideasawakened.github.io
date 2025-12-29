@@ -17,6 +17,7 @@ description: 'Clear explanation of the Delphi Community Edition $5,000 revenue l
 - The [Delphi Community Edition](https://www.embarcadero.com/products/delphi/starter) eligibility is based on **total annual revenue of the licensee**, not just software income.
 - _Employees_ may use Community Edition personally (on their own hardware, with no employer benefit).
 - _Business owners or self-employed freelancers_ exceeding $5,000/year are not eligible, even for unrelated work.
+- If you have any questions, simply ask them via email to: compliance@embarcadero.com
 
 
 ## What the official license actually says - and what it means for you
@@ -217,3 +218,42 @@ The Community Editions are perfect for:
 If Embarcadero wishes to clarify or update any of these points, such clarification would be welcome and this document may be updated accordingly.
 
 The goal of this post is to help provide clarity and not criticism.  As I do not work for Embarcadero and am not an attorney, this is my _personal and non-binding interpretation_.
+
+## Update
+**Iam Barker** responded to the same Facebook post.  Here is his full response:
+
+````
+I think Darian Miller's link points people in the right direction. First of all, if you're not sure and you want an official answer about your own particular circumstances then email our compliance team - compliance@embarcadero.com - and they can give you an answer that is backed by their own assertions. They're the people who would get in touch if you are doing something shady like using pirated or cracked copies and so on. Marco and I are not the legal experts, so we'd pretty much pass on any direct questions to Compliance for them to respond on behalf of the company. 
+
+The CE version is often abused - and by people who definitely know they're not covered, It's also surprising how many people email and ask me for help and have a cracked copy of the software. It's a bit like taking a swig from a beer while you've just pulled up and parked beside a cop to ask for directions. Seriously, it boggles your mind.
+
+The CE version is intended or people who are learning to code, or do it as a hobby, or are a start-up trying to get something out the door - an app, a proof of concept and so on. The financial income limit is as Marco says, intended to relate to using the Delphi or C++ CE in those sorts of circumstances.
+
+As an example, based on how I understand it, during the day you're a Dentist, and you're doing well at it, but at night you've always dreamed of creating the ultimate dating app for dental students. You're not writing as part of your business and you're going to list it on Google Play as a free app. You use your personal laptop to write the app and you never bring it into your work-place or connect it to your work network - it's just you've always wanted to write an app, to learn how it is done, and to see if you can do it. You don't put any ads in the app advertising your Dental surgery - after all, it's just for fun.
+
+Because you're a good dentist you make a *ton* of money out of your dental skills - way more than the CE limit.
+
+Your app makes *nothing*. But it does inspire you to think about writing apps in the future because you're a bit tired of telling people to floss and knowing they're lying when they say they will...
+
+That. to me, and to most of us, seems to be fair use, doesn't it?
+
+Now imagine the app gets popular. You decide to offer a version which includes Ads and a premium version for $1.99 where the ads are disabled.
+
+Due to the popularity of your new app you make $11,000 in combined ad revenue and for $1.99 the premium no-ads version in 11 months. If, in your country, the revenue limit is $10,000 then it looks, to me, like you no longer quality for the CE version and should purchase a paid version. You can probably get away with using the Professional version (the lowest priced SKU).
+
+Now compare that with the same dentist. He/she decides to write a little FREE app for patients to use while they are waiting to be called in for their appointment. That is directly connected to the dentist's business. He's not making money directly from the app - it's free and it's designed to simply keep the waiting patients occupied and distract them from the drilling sounds and screams of the other patients. 😁
+
+So, his income as a dentist would apply. That income is likely to be way in excess of the threshold. You could argue he wrote the app for fun and to learn how to create apps - but, ultimately, he's also using it in his workplace.
+
+In most cases where people have written or spoken to me directly it was usually obvious whether or not the CE version could or should be used. On various Facebook and other social media groups people like to come up with all sorts of diverse, convoluted, theoretical sets of circumstances and say "well, can they use CE or not" and usually the answer leads to a whole bunch of trolling and Well Aktually comments, often to grind their own personal axe - and I get it.
+
+But if you're not sure if the CE version would be OK for **you** and **your** personal circumstances please feel free to email our compliance people so they can talk it through with you. If you email me about it unless it's absolutely clear cut, then I would also reply and then forward you on to compliance as well.
+
+I want as many people as possible to be able to use Delphi or C++ and the CE version does work well for many thousands of people. The law of large numbers means you will definitely find some people who feel like we've been unfair to them, and also others who think they are fine with CE when they're really not, and obviously so.
+
+Unhappy people often are much more motivated to say we've dumped on them than happy people. Maybe sometimes it might even be borderline too. But an overwhelming majority of people out there are using CE just fine. Do people abuse it? Yes. Do we catch them and ask them to purchase a copy? Also, yes. Yet we know from our usage stats - and from personal interactions - that there are a lot of CE users who use it to create all sorts of apps for a variety of purposes. It would be great if we could give away the product for free to everyone (it would make my life a lot easier!) but we also have things like payroll to meet, dev teams, translators, infrastructure, license deals for components, and yes, investors too. And it's those financiers at Idera who have managed to keep Delphi alive where even the likes of Inprise and CodeGear failed. Even Borland, an awesome company back in the day, foundered on the financial rocks.
+
+The rule of thumb with CE is - if you're not sure, get in touch. It's not a trick. I mean it, ask - we're not a faceless corporation.
+````
+
+
