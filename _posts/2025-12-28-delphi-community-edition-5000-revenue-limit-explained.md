@@ -17,7 +17,7 @@ description: 'Clear explanation of the Delphi Community Edition $5,000 revenue l
 - The [Delphi Community Edition](https://www.embarcadero.com/products/delphi/starter) eligibility is based on **total annual revenue of the licensee**, not just software income.
 - _Employees_ may use Community Edition personally (on their own hardware, with no employer benefit).
 - _Business owners or self-employed freelancers_ exceeding $5,000/year are not eligible, even for unrelated work.
-- If you have any questions, simply ask them via email to: compliance@embarcadero.com
+- If you have any questions, simply ask them via email to: <a href="mailto:compliance@embarcadero.com">compliance@embarcadero.com</a>
 
 
 ## What the official license actually says - and what it means for you
@@ -220,9 +220,9 @@ If Embarcadero wishes to clarify or update any of these points, such clarificati
 The goal of this post is to help provide clarity and not criticism.  As I do not work for Embarcadero and am not an attorney, this is my _personal and non-binding interpretation_.
 
 ## Update
-**Iam Barker** responded to the same Facebook post.  Here is his full response:
+**Iam Barker** responded to the same Facebook post.  Below is his full response:
 
-````
+
 I think Darian Miller's link points people in the right direction. First of all, if you're not sure and you want an official answer about your own particular circumstances then email our compliance team - compliance@embarcadero.com - and they can give you an answer that is backed by their own assertions. They're the people who would get in touch if you are doing something shady like using pirated or cracked copies and so on. Marco and I are not the legal experts, so we'd pretty much pass on any direct questions to Compliance for them to respond on behalf of the company. 
 
 The CE version is often abused - and by people who definitely know they're not covered, It's also surprising how many people email and ask me for help and have a cracked copy of the software. It's a bit like taking a swig from a beer while you've just pulled up and parked beside a cop to ask for directions. Seriously, it boggles your mind.
@@ -254,6 +254,9 @@ I want as many people as possible to be able to use Delphi or C++ and the CE ver
 Unhappy people often are much more motivated to say we've dumped on them than happy people. Maybe sometimes it might even be borderline too. But an overwhelming majority of people out there are using CE just fine. Do people abuse it? Yes. Do we catch them and ask them to purchase a copy? Also, yes. Yet we know from our usage stats - and from personal interactions - that there are a lot of CE users who use it to create all sorts of apps for a variety of purposes. It would be great if we could give away the product for free to everyone (it would make my life a lot easier!) but we also have things like payroll to meet, dev teams, translators, infrastructure, license deals for components, and yes, investors too. And it's those financiers at Idera who have managed to keep Delphi alive where even the likes of Inprise and CodeGear failed. Even Borland, an awesome company back in the day, foundered on the financial rocks.
 
 The rule of thumb with CE is - if you're not sure, get in touch. It's not a trick. I mean it, ask - we're not a faceless corporation.
-````
+
+----
+
+Remember, any questions, simply email Embarcadero: <a href="mailto:compliance@embarcadero.com">compliance@embarcadero.com</a>
 
 
