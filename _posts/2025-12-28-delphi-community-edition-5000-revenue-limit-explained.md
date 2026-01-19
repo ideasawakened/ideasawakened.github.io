@@ -2,7 +2,7 @@
 layout: post
 title: "Delphi Community Edition $5,000 Revenue Limit Explained (What Actually Counts)"
 date: 2025-12-28 19:00:00 +0000
-last_modified_at: 2026-01-14 10:00:00 +0000
+last_modified_at: 2026-01-19 10:00:00 +0000
 categories: [Delphi Programming, Community]
 tags: [Community Edition, Licensing, Marco Cantu, Ian Barker, Roland Bengtsson]
 permalink: post/delphi-community-edition-5000-revenue-limit-explained
