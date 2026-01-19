@@ -17,7 +17,7 @@ description: 'Clear explanation of the Delphi Community Edition $5,000 revenue l
 - The [Delphi Community Edition](https://www.embarcadero.com/products/delphi/starter) eligibility is based on **total annual revenue of the licensee**, not just software income.
 - _Employees_ may use Community Edition personally (on their own hardware, with no employer benefit).
 - _Business owners or self-employed freelancers_ exceeding $5,000/year are not eligible, even for unrelated work.
-- If you have any questions, simply ask them via email to: <a href="mailto:compliance@embarcadero.com">compliance@embarcadero.com</a>
+- If you have any questions, simply ask them via email to: <a href="mailto:licensecompliance@embarcadero.com">licensecompliance@embarcadero.com</a>
 
 
 ## What the official license actually says - and what it means for you
@@ -110,6 +110,7 @@ If a company exceeds $5,000 in annual revenue:
 - Community Edition use is **not permitted**
 - Even for internal tools
 - Even for free or non-commercial software
+- ***Update 3***: The only exception is if there is no direct or indirect benefit for the business.
 
 What should a company do instead?
 - Companies can use the [30-day Free Trial Version](https://www.embarcadero.com/products/delphi/start-for-free) before purchasing
@@ -223,19 +224,19 @@ The goal of this post is to help provide clarity and not criticism.  As I do not
 **Iam Barker** responded to the same Facebook post.  Below is his full response:
 
 
-I think Darian Miller's link points people in the right direction. First of all, if you're not sure and you want an official answer about your own particular circumstances then email our compliance team - compliance@embarcadero.com - and they can give you an answer that is backed by their own assertions. They're the people who would get in touch if you are doing something shady like using pirated or cracked copies and so on. Marco and I are not the legal experts, so we'd pretty much pass on any direct questions to Compliance for them to respond on behalf of the company. 
+I think Darian Miller's link points people in the right direction. First of all, if you're not sure and you want an official answer about your own particular circumstances then email our compliance team - ***licensecompliance@embarcadero.com*** - and they can give you an answer that is backed by their own assertions. They're the people who would get in touch if you are doing something shady like using pirated or cracked copies and so on. Marco and I are not the legal experts, so we'd pretty much pass on any direct questions to Compliance for them to respond on behalf of the company. 
 
 The CE version is often abused - and by people who definitely know they're not covered, It's also surprising how many people email and ask me for help and have a cracked copy of the software. It's a bit like taking a swig from a beer while you've just pulled up and parked beside a cop to ask for directions. Seriously, it boggles your mind.
 
 The CE version is intended or people who are learning to code, or do it as a hobby, or are a start-up trying to get something out the door - an app, a proof of concept and so on. The financial income limit is as Marco says, intended to relate to using the Delphi or C++ CE in those sorts of circumstances.
 
-As an example, based on how I understand it, during the day you're a Dentist, and you're doing well at it, but at night you've always dreamed of creating the ultimate dating app for dental students. You're not writing as part of your business and you're going to list it on Google Play as a free app. You use your personal laptop to write the app and you never bring it into your work-place or connect it to your work network - it's just you've always wanted to write an app, to learn how it is done, and to see if you can do it. You don't put any ads in the app advertising your Dental surgery - after all, it's just for fun.
+As an example, based on how I understand it, during the day you're a Dentist, and you're doing well at it, but at night you've always dreamed of creating the ultimate dating app for dental students. You're not writing as part of your business and you're going to list it on Google Play as a free app **with no direct mention or indirect benefit to your normal dental business***. You use your personal laptop to write the app and you never bring it into your work-place or connect it to your work network - it's just you've always wanted to write an app, to learn how it is done, and to see if you can do it. You don't put any ads in the app advertising your Dental surgery ***or link it to your dental business in any way on Google Play*** - after all, it's just for fun.
 
 Because you're a good dentist you make a *ton* of money out of your dental skills - way more than the CE limit.
 
 Your app makes *nothing*. But it does inspire you to think about writing apps in the future because you're a bit tired of telling people to floss and knowing they're lying when they say they will...
 
-That. to me, and to most of us, seems to be fair use, doesn't it?
+That. to me, and to most of us, seems to be fair use, doesn't it?  ***Please note that if the app made nothing, but had some link to your business in the app title, in-app advertising or publisher name it would not be eligible.***
 
 Now imagine the app gets popular. You decide to offer a version which includes Ads and a premium version for $1.99 where the ads are disabled.
 
@@ -257,9 +258,32 @@ The rule of thumb with CE is - if you're not sure, get in touch. It's not a tric
 
 ----
 
-Remember, any questions, simply email Embarcadero: <a href="mailto:compliance@embarcadero.com">compliance@embarcadero.com</a>
+Remember, any questions, simply email Embarcadero: <a href="mailto:licensecompliance@embarcadero.com">licensecompliance@embarcadero.com</a>
 
 
 ## Update 2 
-I took Ian Barker's advice and sent an email to the compliance team at Embarcadero on December 29, 2025 and questioned whether or not his example is valid.  They have not yet provided a response.  If they do respond, I will update the post again.
+2026-01-14 I took Ian Barker's advice and sent an email to the compliance team at Embarcadero on December 29, 2025 and questioned whether or not his example is valid.  They have not yet provided a response.  If they do respond, I will update the post again.
+
+## Update 3
+2026-01-19 Compliance did respond today.  They apologized for the delay as the email address is now <a href="mailto:Licensecompliance@embarcadero.com">licensecompliance@embarcadero.com</a>  I updated previous references in the article to the latest email address. I also added a usage exception tagged as ***Update 3*** to the original articte's text.
+
+Ian's usage example was pretty spot-on but compliance did provide some clarifications.  My blog article's advice as originally written would have forbidden the dentist example as-provided by Ian.  But it is allowed - _as long as it complies with the three clarifications added to Ian's example (in bold/italic) which were made by the compliance team_ which reiterates that the business can not receive direct, or indirect, benefit.  (Basically prevent indirect benefit by not mentioning the business name or providing links to your business.)
+
+I would still recommend not allowing the Community Edition on your work network as that would open the door to the questions from compliance as to proper usage in a business environment.
+
+**Thank-you** to Embarcadero's compliance team for responding and clarifying the usage of their Community Edition in a business setting!  It is very much appreciated and is helpful to clear up questions.  I believe this blog article now fully answers all of the questions that I have seen raised about the Community Edition (with the possible exception of license renewals...for renewals, just register again with the same contact information. Also note that only the latest Community Edition can be licensed - don't expect to get an older version relicensed.)  
+
+While I am here... the final question on Community Edition that comes up often is: when is the next version going to be released? There currently is no definitive answer available for that question. The release schedule is not yet published and internal decisions define the release date.
+
+
+
+
+
+
+
+
+
+
+
+
 
