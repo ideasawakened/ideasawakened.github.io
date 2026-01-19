@@ -16,7 +16,7 @@ description: 'Clear explanation of the Delphi Community Edition $5,000 revenue l
 ## **TL;DR**
 - The [Delphi Community Edition](https://www.embarcadero.com/products/delphi/starter) eligibility is based on **total annual revenue of the licensee**, not just software income.
 - _Employees_ may use Community Edition personally (on their own hardware, with no employer benefit).
-- _Business owners or self-employed freelancers_ exceeding $5,000/year are not eligible, even for unrelated work.
+- _Business owners or self-employed freelancers_ exceeding $5,000/year are not eligible, even for unrelated work. (***Update 3*** unless there is zero direct or indirect benefit for the business***)
 - If you have any questions, simply ask them via email to: <a href="mailto:licensecompliance@embarcadero.com">licensecompliance@embarcadero.com</a>
 
 
@@ -265,7 +265,7 @@ Remember, any questions, simply email Embarcadero: <a href="mailto:licensecompli
 2026-01-14 I took Ian Barker's advice and sent an email to the compliance team at Embarcadero on December 29, 2025 and questioned whether or not his example is valid.  They have not yet provided a response.  If they do respond, I will update the post again.
 
 ## Update 3
-2026-01-19 Compliance did respond today.  They apologized for the delay as the email address is now <a href="mailto:Licensecompliance@embarcadero.com">licensecompliance@embarcadero.com</a>  I updated previous references in the article to the latest email address. I also added a usage exception tagged as ***Update 3*** to the original articte's text.
+2026-01-19 Compliance did respond today.  They apologized for the delay as the email address is now <a href="mailto:Licensecompliance@embarcadero.com">licensecompliance@embarcadero.com</a>  I updated previous references in the article to the latest email address and added two clarifications marked as ***Update 3***.
 
 Ian's usage example was pretty spot-on but compliance did provide some clarifications.  My blog article's advice as originally written would have forbidden the dentist example as-provided by Ian.  But it is allowed - _as long as it complies with the three clarifications added to Ian's example (in bold/italic) which were made by the compliance team_ which reiterates that the business can not receive direct, or indirect, benefit.  (Basically prevent indirect benefit by not mentioning the business name or providing links to your business.)
 
