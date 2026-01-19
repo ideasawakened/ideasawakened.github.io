@@ -16,7 +16,7 @@ description: 'Clear explanation of the Delphi Community Edition $5,000 revenue l
 ## **TL;DR**
 - The [Delphi Community Edition](https://www.embarcadero.com/products/delphi/starter) eligibility is based on **total annual revenue of the licensee**, not just software income.
 - _Employees_ may use Community Edition personally (on their own hardware, with no employer benefit).
-- _Business owners or self-employed freelancers_ exceeding $5,000/year are not eligible, even for unrelated work. (***Update 3*** unless there is zero direct or indirect benefit for the business***)
+- _Business owners or self-employed freelancers_ exceeding $5,000/year are not eligible, even for unrelated work. (***Update 3*** unless there is zero direct or indirect benefit for the business)
 - If you have any questions, simply ask them via email to: <a href="mailto:licensecompliance@embarcadero.com">licensecompliance@embarcadero.com</a>
 
 
@@ -230,7 +230,7 @@ The CE version is often abused - and by people who definitely know they're not c
 
 The CE version is intended or people who are learning to code, or do it as a hobby, or are a start-up trying to get something out the door - an app, a proof of concept and so on. The financial income limit is as Marco says, intended to relate to using the Delphi or C++ CE in those sorts of circumstances.
 
-As an example, based on how I understand it, during the day you're a Dentist, and you're doing well at it, but at night you've always dreamed of creating the ultimate dating app for dental students. You're not writing as part of your business and you're going to list it on Google Play as a free app **with no direct mention or indirect benefit to your normal dental business***. You use your personal laptop to write the app and you never bring it into your work-place or connect it to your work network - it's just you've always wanted to write an app, to learn how it is done, and to see if you can do it. You don't put any ads in the app advertising your Dental surgery ***or link it to your dental business in any way on Google Play*** - after all, it's just for fun.
+As an example, based on how I understand it, during the day you're a Dentist, and you're doing well at it, but at night you've always dreamed of creating the ultimate dating app for dental students. You're not writing as part of your business and you're going to list it on Google Play as a free app ***with no direct mention or indirect benefit to your normal dental business***. You use your personal laptop to write the app and you never bring it into your work-place or connect it to your work network - it's just you've always wanted to write an app, to learn how it is done, and to see if you can do it. You don't put any ads in the app advertising your Dental surgery ***or link it to your dental business in any way on Google Play*** - after all, it's just for fun.
 
 Because you're a good dentist you make a *ton* of money out of your dental skills - way more than the CE limit.
 
