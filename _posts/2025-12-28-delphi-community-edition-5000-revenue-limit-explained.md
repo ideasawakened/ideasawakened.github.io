@@ -2,7 +2,7 @@
 layout: post
 title: "Delphi Community Edition $5,000 Revenue Limit Explained (What Actually Counts)"
 date: 2025-12-28 19:00:00 +0000
-last_modified_at: 2026-01-19 10:00:00 +0000
+last_modified_at: 2026-01-22 10:00:00 +0000
 categories: [Delphi Programming, Community]
 tags: [Community Edition, Licensing, Marco Cantu, Ian Barker, Roland Bengtsson]
 permalink: post/delphi-community-edition-5000-revenue-limit-explained
@@ -157,11 +157,13 @@ Then **all business or contract revenue counts**, regardless of source.
 | Unemployed dev living on government aid | Yes |
 | Retired dev living on savings | Yes |
 | Student with no income | Yes |
-| Freelancer earning $5,000+ (any industry) | No |
-| Fast-food restaurant owner | No |
+| Freelancer earning $5,000+ (any industry) | No^ |
+| Fast-food restaurant owner | No^ |
 
 
 The determining factor is **employee versus licensee**, not job type.
+
+^ ***Update 3*** An exception is allowed if there is no direct, or indirect, benefit to the owner operator.
 
 ---
 
