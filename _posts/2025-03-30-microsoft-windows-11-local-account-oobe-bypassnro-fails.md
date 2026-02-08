@@ -4,7 +4,7 @@ title: "Workaround for Microsoft blocking BYPASSNRO script to setup a local acco
 date: 2025-03-30 03:00:00 +0000
 last_modified_at: 2025-03-30 03:00:00 +0000
 categories: [Tooling, Microsoft Windows]
-tags: [Microft Windows]
+tags: [Microsoft Windows, Workaround]
 permalink: post/microsoft-windows-11-local-account-oobe-bypassnro-fails
 published: true
 image: /assets/blog/Microsoft-Windows/Windows-11/setup-local-account/windows-11-local-admin-workaround_small.png
