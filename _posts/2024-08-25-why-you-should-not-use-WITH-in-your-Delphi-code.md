@@ -128,7 +128,7 @@ The routine GetTranspBorderSize returned a TRect and the code referenced the Top
 
 ## Nested WITHs Are Evil
 
-Do we need cover the problems with nested **with** statements?  Simply assume all problems of **with** increase exponentially based on the level of nesting.
+Do we need to cover the problems with nested **with** statements?  Simply assume all problems of **with** increase exponentially based on the level of nesting.
 
 ````pascal
 with A, B, C do
@@ -194,47 +194,11 @@ Of course, **with** is just as evil inside the RTL as outside of it!  EurekaLog 
 
 
 ## WITH Problems Are Not Identical To Problems With USES Clauses
-Some developers equate the **with** problem as the exact same scoping problems with **uses** statements (as a lame excuse to keep using **with**.)  If you re-order the items within your uses clause, you can certainly open yourself up to bugs (as last-defined in scope wins.) Any changes to public members in used units can also open yourself to similar scoping-related bugs.  But, you can protect yourself against these problems by using namespace identifiers when accesing code in different units. (`SomeUnit.SomeMethod`)  Using **with** statements is the _intentional exclusion_ of using more precise scoping within the with-block of code.  It also greatly obscures the "last-defined in scope wins" assumption when you are reading and understanding the code in the unit.  All too often you can actually see the item you assume you are referencing in that block of code within the same unit, but the implementation the compiler sees is different based on the altered scope resolution.  Your eyes can easily lie to you when reading **with** blocks of code.
+Some developers equate the **with** problem as the exact same scoping problems with **uses** statements (as a weak excuse to keep using **with**.)  If you re-order the items within your uses clause, you can certainly open yourself up to bugs (as last-defined in scope wins.) Any changes to public members in used units can also open yourself to similar scoping-related bugs.  But, you can protect yourself against these problems by using namespace identifiers when accesing code in different units. (`SomeUnit.SomeMethod`)  Using **with** statements is the _intentional exclusion_ of using more precise scoping within the with-block of code.  It also greatly obscures the "last-defined in scope wins" assumption when you are reading and understanding the code in the unit.  All too often you can actually see the item you assume you are referencing in that block of code within the same unit, but the implementation the compiler sees is different based on the altered scope resolution.  Your eyes can easily lie to you when reading **with** blocks of code.
 
 A simple example of uses-clause scope issues involves the call to `DeleteFile(FileName)`  How many times have you used that routine and received a compiler error similar to: `[dcc32 Error] Unit1.pas(47): E2010 Incompatible types: 'PWideChar' and 'string'`?  For form units, the autocreated code by Delphi lists `Winapi.Windows` before `System.SysUtils` so DeleteFile typically works as expected (and calls the SysUtils version.)  But sometimes when you are creating a non-visual unit and your call to Delete throws that compiler error because SysUtils can sometimes be listed before Windows.  The obvious solution is to be more precise in your coding and use `SysUtils.DeleteFile(FileName);` or even better, use the fully scoped method: `System.SysUtils.DeleteFile(FileName);` 
 
 Scope issues related to **uses** clauses can be greatly minimized but the damage from **with** is self-inflicted and **unavoidable** making **with** issues much worse than **uses** clause issues.
-
-## Use Variables To Replace With
-In a [Delphi-PRAXiS thread: Inline Variables Coming in 10.3](https://en.delphipraxis.net/topic/138-inline-variables-coming-in-103/?do=findComment&comment=1454) it was suggested by **Kryvich** to use inline variables to replace **with** statements with the following example:
-````pascal
-
-//instead of this:
-procedure TMyGreatEditor.Cut;
-  with ControlRange as IHTMLControlRange do
-  begin
-    select;
-    execCommand('Cut', False, EmptyParam)
-  end;
-end;
-
-//use inline variables instead and your future WITH-related problems go away:
-procedure TMyGreatEditor.Cut;
-begin
-  var cr := ControlRange as IHTMLControlRange;
-  cr.select;
-  cr.execCommand('Cut', False, EmptyParam)
-end;
-
-//I suggest that you use simple variables instead:
-procedure TMyGreatEditor.Cut;
-var
-  cr:IHTMLControlRange
-begin
-  cr := ControlRange as IHTMLControlRange;
-  cr.select;
-  cr.execCommand('Cut', False, EmptyParam)
-end;
-````
-
-**Marco Cantu** also suggested inline variables: [Blog: Delphi With Statements and Local Variables](https://blogs.embarcadero.com/delphi-with-statements-and-local-variables/)
-
-**Note**: I wish I could support switching to inline variables, but the tooling still has not caught up.  There are just too many problems with the IDE and inline variables. (Issues with formatting, refactoring, debugging, codeinsight...)  It is definitely getting better, and I believe they are a great addition to the language, but I currently stay away from most inline variable usage. See my earlier post [Newly discovered hidden benefits of inline variables in Delphi](https://ideasawakened.com/post/newly-discovered-hidden-benefits-of-inline-variables-in-delphi)
 
 
 ## Careful Refactoring Required
@@ -369,6 +333,43 @@ end.
 Should you actually use this power available to you?  Only on Tuesday nights when the moon is full perhaps.
 
 I have seen this referenced in a few places, but **Toon Krijthe** may have been the first as he did provide example code a StackOverflow Answer back in 2017: [How to access private methods without helpers?](https://stackoverflow.com/a/42936955/35696) and again: [How to access a private field from a class helper in Delphi 10.1 Berlin?](https://stackoverflow.com/a/42936824/35696)
+
+
+## Alternative - Use Variables To Replace With
+In a [Delphi-PRAXiS thread: Inline Variables Coming in 10.3](https://en.delphipraxis.net/topic/138-inline-variables-coming-in-103/?do=findComment&comment=1454) it was suggested by **Kryvich** to use inline variables to replace **with** statements with the following example:
+````pascal
+
+//instead of this:
+procedure TMyGreatEditor.Cut;
+  with ControlRange as IHTMLControlRange do
+  begin
+    select;
+    execCommand('Cut', False, EmptyParam)
+  end;
+end;
+
+//use inline variables instead and your future WITH-related problems go away:
+procedure TMyGreatEditor.Cut;
+begin
+  var cr := ControlRange as IHTMLControlRange;
+  cr.select;
+  cr.execCommand('Cut', False, EmptyParam)
+end;
+
+//I suggest that you use simple variables instead:
+procedure TMyGreatEditor.Cut;
+var
+  cr:IHTMLControlRange
+begin
+  cr := ControlRange as IHTMLControlRange;
+  cr.select;
+  cr.execCommand('Cut', False, EmptyParam)
+end;
+````
+
+**Marco Cantu** also suggested inline variables: [Blog: Delphi With Statements and Local Variables](https://blogs.embarcadero.com/delphi-with-statements-and-local-variables/)
+
+**Note**: I wish I could support switching to inline variables, but the tooling still has not caught up.  There are just too many problems with the IDE and inline variables. (Issues with formatting, refactoring, debugging, codeinsight...)  It is definitely getting better, and I believe they are a great addition to the language, but I currently stay away from most inline variable usage. See my earlier post [Newly discovered hidden benefits of inline variables in Delphi](https://ideasawakened.com/post/newly-discovered-hidden-benefits-of-inline-variables-in-delphi)
 
 
 ## Additional Links

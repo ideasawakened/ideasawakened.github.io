@@ -2,7 +2,7 @@
 layout: post
 title: "How to access private fields with RTTI to give TRESTClient an OnReceiveData event"
 date: 2021-12-12 12:00:00 +0000
-last_modified_at: 2021-12-12 12:00:00 +0000
+last_modified_at: 2026-02-11 08:00:00 +0000
 categories: [Delphi Programming, Example Code]
 tags: [RTTI, Robert Love]
 permalink: post/how-to-access-private-fields-with-rtti-to-give-trestclient-an-onreceivedata-event
@@ -108,7 +108,7 @@ var
   theClient:System.Net.HttpClient.THTTPClient;
 begin
 
-  //hook up our OnProgress event by access private fields via RTTI
+  //hook up our OnProgress event by accessing private fields via RTTI
   MyRTTIContext := TRTTIContext.Create;
   try
     RestHTTPClientVal := MyRTTIContext.GetType(TRESTClient).GetField('FHttpClient').GetValue(RESTClient1);
@@ -157,3 +157,7 @@ The astute readers will note that TRTTIContext is a record so why are calling Cr
 ## Summary
 
 As demonstrated, you can use RTTI to obtain access to private fields in another class which allows you to break the normal encapsulation rules. We all know that if you break rules in life then you can certainly be expected to pay a price for your actions at some point in the future. If you are accessing the internals of a class, you should not be surprised when you have to deal with breaking code changes in the future as implementation details can change without notice as long as the public interface does not change
+
+
+## Update:
+This workaround is no longer required in later versions of Delphi as they have addded `OnReceiveData` and `OnReceivedDataEx` events to work with directly.
