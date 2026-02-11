@@ -2,9 +2,9 @@
 layout: post
 title: "Delphi vs Free Pascal/Lazarus: A Decision-First Comparison"
 date: 2026-02-08 21:00:00 +0000
-last_modified_at: 2026-02-08 21:00:00 +0000
+last_modified_at: 2026-02-11 21:00:00 +0000
 categories: [Delphi Programming, Community]
-tags: [Delphi, Free Pascal, FPC, Lazarus, Licensing, Continuous Integration]
+tags: [Delphi, Free Pascal, FPC, Lazarus, Licensing, Continuous Integration, David Intersimone]
 permalink: post/delphi-versus-free-pascal-lazarus-comparison
 published: true
 image: /assets/blog/Delphi_Versus/Delphi-vs-FPC_small.png
@@ -168,3 +168,10 @@ If you use Delphi, Free Pascal/Lazarus, or both, your perspective is valuable.  
 
 
 [https://github.com/ideasawakened/delphi-and-fpc-lazarus-comparison](https://github.com/ideasawakened/delphi-and-fpc-lazarus-comparison)
+
+
+## Update
+- **David Intersimone** responded to my LinkedIn post about this blog article with a [comment](https://www.linkedin.com/feed/update/urn:li:activity:7426412370303913984?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7426412370303913984%2C7426675092736139265%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287426675092736139265%2Curn%3Ali%3Aactivity%3A7426412370303913984%29):
+> I use both. For Windows, macOS, iOS, Android and Linux (Intel) - I use Delphi 13. For my Raspberry Pi 400 and 5 I use Free Pascal (for now). Nice article. This week, Delphi turns 31 and is still innovating Me, this year I will turn 75 and am still programming.
+
+ I whole-heartedly agree!  Too many people are on one side of the fence or the other....get off the fence and use both!
