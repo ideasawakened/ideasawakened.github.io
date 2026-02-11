@@ -2,7 +2,7 @@
 layout: post
 title: "Configure Git for signed commits on Windows using GPG"
 date: 2021-12-05 12:00:00 +0000
-last_modified_at: 2021-12-05 12:00:00 +0000
+last_modified_at: 2026-02-05 10:00:00 +0000
 categories: [Tooling, SCM]
 tags: [GitHub, git, Security]
 permalink: post/configure-git-for-signed-commits-on-windows-using-gpg
@@ -144,3 +144,22 @@ In just a few minutes, your new keypair should be created and you will see the *
 Note: if your hard drive crashes and you lose access to your private key, leave your public key assigned in GitHub. If you delete your public key, then all previously Verified commits will immediately be marked as unverified. Simply create a new keypair and create a new public key in GitHub.
 
 Please let me know if you have any comments, corrections or additions to my [**Gist**](https://gist.github.com/darianmiller/9de8aeb1979ef2eba9ea6069c669bca1)!
+
+
+
+## Update Feb 2026
+I have tweaked the gist a few times, this time was a larger change, including:
+
+Fix key generation and keyring compatibility for GPG 2.3+ and Git for Windows
+Several fixes to improve compatibility with newer versions of GPG bundled with Git for Windows:
+
+>1. Disable keyboxd before key generation (GPG 2.4+)
+GPG 2.4.1+ enables keyboxd as the default keyring backend on fresh installs, but keyboxd.exe is not included in the GPG bundled with Git for Windows. This caused an immediate "No Keybox daemon running" failure on any machine without an existing .gnupg directory. Fixed by forcing GPG to initialize the .gnupg directory early via a silent --list-keys call, then patching common.conf to comment out use-keyboxd before key generation runs.
+>2. Create temp directory before public key export
+The latest GPG will no longer create intermediate directories when exporting to a file path. The %TEMP%\MyNewPublicKey\ subdirectory is now explicitly created with mkdir before the export, preventing a "No such file or directory" error.
+>3. Use default instead of sign in --quick-generate-key
+Specifying sign as the usage argument suppresses subkey creation in GPG 2.3+, which could result in an empty public key export. Changed to default, which reliably creates both a primary signing key and an encryption subkey across all GPG 2.1+ versions.
+>4. Robust fingerprint parsing for git config
+Replaced the fragile skip=2 line-count and %linethree:~12,40% character-position substring approach with a findstr "^fpr" + tokens=10 delims=: parse of the --with-colons --fingerprint output. The 10th colon-delimited field of the fpr: line is a stable, documented GPG interface that is immune to output ordering changes across versions.
+
+Revision 9 now works on my Windows 11 virtual machine with the latest versions of GPG and Git For Windows.
