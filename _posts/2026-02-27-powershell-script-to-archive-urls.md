@@ -2,10 +2,10 @@
 layout: post
 title: "Help Prevent Link Rot: Archive URLs from the Command Line with PowerShell"
 date: 2026-02-27 00:30:00 +0000
-last_modified_at: 2026-02-27 00:30:00 +0000
+last_modified_at: 2026-02-27 00:31:00 +0000
 categories: [Tooling, Automation]
 tags: [PowerShell, Wayback Machine, archive.ph, gist, GitHub]
-permalink: post/configure-git-for-signed-commits-on-windows-using-gpg
+permalink: post/powershell-script-to-archive-urls
 published: true
 image: /assets/blog/PowerShell/PowerShell_ArchiveUrls_WaybackMachine_small.png
 description: "A self-contained PowerShell 7 script that archives URLs to the Wayback Machine and archive.ph simultaneously"
