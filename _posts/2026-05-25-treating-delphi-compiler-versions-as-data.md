@@ -7,7 +7,7 @@ categories: [Tooling, Automation]
 tags: [PowerShell, GitHub, ci, delphi-compiler-versions, delphi-inspect, delphi-msbuild, Continuous-Delphi]
 permalink: post/treating-delphi-compiler-versions-as-data
 published: true
-image: /assets/blog/continuous-delphi/delphi-compiler-versions/intro-blog-post/delphi-compiler-versions-small.png
+image: /assets/blog/continuous-delphi/delphi-compiler-versions/delphi-compiler-versions-250x250.png
 description: "Compiler version tooling aimed at Delphi library maintainers, CI pipeline authors, and teams supporting multiple Delphi versions simultaneously."
 ---
 
