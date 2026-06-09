@@ -4,7 +4,7 @@ title: "delphi-terminal: A Dockable Console for RAD Studio"
 date: 2026-06-07 20:00:00 +0000
 last_modified_at: 2026-06-07 20:00:00 +0000
 categories: [Delphi Programming, IDE]
-tags: [Continuous-Delphi, ToolsAPI, PowerShell, Automation]
+tags: [Continuous-Delphi, ToolsAPI, PowerShell, Automation, delphi-terminal]
 permalink: post/delphi-terminal-a-dockable-console-for-RAD-Studio
 published: true
 image: /assets/blog/continuous-delphi/delphi-terminal/delphi-terminal-250x250.png
