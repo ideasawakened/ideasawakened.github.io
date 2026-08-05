@@ -150,4 +150,4 @@ Downloaded https://httpbin.org/json
 Saved to C:\code\delphi-replicant\projects\console-compare\Win32\Debug\cache\httpbin.json
 ```
 
-Thanks to [*Simon Cropp*](https://github.com/SimonCropp) for his Replicant library which is now available to Delphi Developers after a quick half-hour session with [Kai](https://www.embarcadero.com/products/rad-studio/kai)!   Build your solution with Kai and enter the Summer developer campaign 2026: https://learndelphi.org/kai/
+Thanks to [*Simon Cropp*](https://github.com/SimonCropp) for his Replicant library which is now available to Delphi Developers after a quick half-hour session with [Kai](https://www.embarcadero.com/products/rad-studio/kai)!   Build your solution with Kai and enter the **Summer Developer Campaign 2026**: [https://learndelphi.org/kai/](https://learndelphi.org/kai/)
